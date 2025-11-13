@@ -12,31 +12,34 @@ r = requests.get(CSV_URL, timeout=60)
 r.raise_for_status()
 content = r.content
 
-df = None
-errors = []
+# Step 1️⃣: clean raw binary — remove NULs and other broken bytes
+print("🧹 Cleaning raw CSV content")
+cleaned = content.replace(b"\x00", b" ").replace(b"\r", b"").replace(b"\xa0", b" ")
 
-# 1️⃣ Try standard encodings
-for enc in ["windows-1250", "windows-1252", "iso8859_2", "utf-8-sig"]:
-    try:
-        df = pd.read_csv(io.BytesIO(content), encoding=enc, sep=";", decimal=",", on_bad_lines="skip")
-        print(f"✅ Loaded CSV with encoding {enc}")
-        break
-    except Exception as e:
-        errors.append(f"{enc}: {e}")
+# Step 2️⃣: decode text safely
+try:
+    text = cleaned.decode("utf-8", errors="ignore")
+    encoding_used = "utf-8"
+except Exception:
+    text = cleaned.decode("iso8859_2", errors="ignore")
+    encoding_used = "iso8859_2"
 
-# 2️⃣ Fallback: ignore bad characters and parse manually
-if df is None:
-    try:
-        text = content.decode("iso8859_2", errors="ignore")
-        df = pd.read_csv(io.StringIO(text), sep=";", decimal=",", on_bad_lines="skip")
-        print("✅ Loaded CSV with binary fallback (iso8859_2, errors ignored)")
-    except Exception as e:
-        errors.append(f"binary fallback: {e}")
+print(f"✅ Decoded using {encoding_used}")
 
-if df is None:
-    raise RuntimeError("❌ Could not read CSV file. Tried:\n" + "\n".join(errors))
+# Step 3️⃣: normalize newlines & remove broken quotes
+text = text.replace('""', '"').replace('";"', ';')
+lines = [line for line in text.split("\n") if len(line.strip()) > 3]
+cleaned_text = "\n".join(lines)
 
-# 3️⃣ Clean and calculate volume
+# Step 4️⃣: Try to load CSV
+try:
+    df = pd.read_csv(io.StringIO(cleaned_text), sep=";", decimal=",", on_bad_lines="skip", low_memory=False)
+    print(f"✅ Parsed cleaned CSV successfully with {len(df)} rows")
+except Exception as e:
+    print("❌ Failed parsing even after cleaning:", e)
+    raise
+
+# Step 5️⃣: Compute volume
 cols = ["name", "height", "depth", "width"]
 for c in cols:
     if c not in df.columns:
@@ -52,6 +55,7 @@ out = df[df["volume"] > 0][["name", "volume"]]
 
 out.to_json("volumes.json", orient="records", force_ascii=False, indent=2)
 print(f"✅ Done — generated volumes.json with {len(out)} items")
+
 
 
 
