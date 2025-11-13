@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import requests
+import chardet
 
 # Get the URL from GitHub secret
 CSV_URL = os.environ.get("CSV_URL")
@@ -10,11 +11,19 @@ if not CSV_URL:
 print("📦 Downloading CSV from:", CSV_URL)
 r = requests.get(CSV_URL, timeout=60)
 r.raise_for_status()
+
+# Save temporary CSV
 with open("products.csv", "wb") as f:
     f.write(r.content)
 
-# Read and process CSV
-df = pd.read_csv("products.csv", encoding="windows-1250", sep=";", decimal=",")
+# Detect encoding
+with open("products.csv", "rb") as f:
+    rawdata = f.read(100000)
+encoding_guess = chardet.detect(rawdata)["encoding"]
+print("🔍 Detected encoding:", encoding_guess)
+
+# Read CSV with detected encoding
+df = pd.read_csv("products.csv", encoding=encoding_guess, sep=";", decimal=",")
 
 # Make sure expected columns exist
 cols = ["name", "height", "depth", "width"]
