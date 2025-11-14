@@ -18,6 +18,12 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Upload volumes.json as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: volumes-json
+          path: data/volumes.json
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
