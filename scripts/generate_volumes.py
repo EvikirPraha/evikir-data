@@ -1,59 +1,44 @@
 import os
 import pandas as pd
 import requests
-import io
 
-CSV_URL = os.environ.get("CSV_URL")
+print("📦 Downloading XLS from:", os.getenv("CSV_URL"))
 
-print("📦 Downloading CSV from:", CSV_URL)
-r = requests.get(CSV_URL, timeout=60)
-r.raise_for_status()
-content = r.content
+url = os.getenv("CSV_URL")
+if not url:
+    raise RuntimeError("❌ CSV_URL secret not found")
 
-# Step 1️⃣: clean raw binary — remove NULs and other broken bytes
-print("🧹 Cleaning raw CSV content")
-cleaned = content.replace(b"\x00", b" ").replace(b"\r", b"").replace(b"\xa0", b" ")
+# Download the Excel file
+response = requests.get(url)
+response.raise_for_status()
 
-# Step 2️⃣: decode text safely
-try:
-    text = cleaned.decode("utf-8", errors="ignore")
-    encoding_used = "utf-8"
-except Exception:
-    text = cleaned.decode("iso8859_2", errors="ignore")
-    encoding_used = "iso8859_2"
+# Save temporarily
+with open("products.xls", "wb") as f:
+    f.write(response.content)
 
-print(f"✅ Decoded using {encoding_used}")
+# Read Excel instead of CSV
+df = pd.read_excel("products.xls")
 
-# Step 3️⃣: normalize newlines & remove broken quotes
-text = text.replace('""', '"').replace('";"', ';')
-lines = [line for line in text.split("\n") if len(line.strip()) > 3]
-cleaned_text = "\n".join(lines)
+# Check columns
+print("✅ Columns found:", df.columns.tolist())
 
-# Step 4️⃣: Try to load CSV
-try:
-    df = pd.read_csv(io.StringIO(cleaned_text), sep=";", decimal=",", on_bad_lines="skip", low_memory=False)
-    print(f"✅ Parsed cleaned CSV successfully with {len(df)} rows")
-except Exception as e:
-    print("❌ Failed parsing even after cleaning:", e)
-    raise
+# --- Adjust these column names if needed ---
+height_col = "height"
+depth_col = "depth"
+width_col = "width"
 
-# Step 5️⃣: Compute volume
-cols = ["name", "height", "depth", "width"]
-for c in cols:
-    if c not in df.columns:
-        print(f"⚠️ Missing column '{c}', creating empty one")
-        df[c] = 0
+# Compute volume in cubic meters
+df["volume_m3"] = (df[height_col] * df[depth_col] * df[width_col]) / (100**3)
 
-df = df.fillna(0)
-for c in ["height", "depth", "width"]:
-    df[c] = pd.to_numeric(df[c], errors="coerce").fillna(0)
+# Filter by max allowed volume (0.10044 m³)
+max_volume = 0.10044
+df_filtered = df[df["volume_m3"] <= max_volume]
 
-df["volume"] = df["height"] * df["depth"] * df["width"]
-out = df[df["volume"] > 0][["name", "volume"]]
+# Only keep product name and volume
+df_result = df_filtered[["name", "volume_m3"]]
 
-out.to_json("volumes.json", orient="records", force_ascii=False, indent=2)
-print(f"✅ Done — generated volumes.json with {len(out)} items")
-
-
+# Save JSON
+df_result.to_json("volumes.json", orient="records", indent=2, force_ascii=False)
+print("✅ volumes.json successfully created")
 
 
