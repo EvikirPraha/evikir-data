@@ -28,7 +28,7 @@ jobs:
           pip install pandas requests openpyxl
 
       - name: Generate volumes.json
-        run: |
+        run: python scripts/generate_volumes.py
           mkdir -p data
           python scripts/generate_volumes.py
 
