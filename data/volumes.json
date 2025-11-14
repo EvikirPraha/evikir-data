@@ -1,10 +1,18 @@
 [
   {
-    "code": 4093,
-    "name": "HT Koleno 40/15°",
-    "height": 30.0,
-    "depth": 10.0,
-    "width": 10.0,
-    "volume_cm3": 3000.0
+    "code": 5831,
+    "name": "HT Dvojodbočka 110/110/110 mm 87°",
+    "height": 26.0,
+    "depth": 26.0,
+    "width": 13.0,
+    "volume_cm3": 8788.0
+  },
+  {
+    "code": 7185,
+    "name": "HT Dvojodbočka 110/110/110 mm 67°",
+    "height": 29.0,
+    "depth": 25.0,
+    "width": 13.0,
+    "volume_cm3": 9425.0
   }
 ]
