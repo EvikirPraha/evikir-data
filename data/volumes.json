@@ -1,5 +1,77 @@
 [
   {
+    "code": 4091,
+    "name": "HT Koleno 110/15°",
+    "height": 16.0,
+    "depth": 13.0,
+    "width": 13.0,
+    "volume_cm3": 2704.0
+  },
+  {
+    "code": 4096,
+    "name": "HT Koleno 110/30°",
+    "height": 17.0,
+    "depth": 14.0,
+    "width": 13.0,
+    "volume_cm3": 3094.0
+  },
+  {
+    "code": 4101,
+    "name": "HT Koleno 110/45°",
+    "height": 19.0,
+    "depth": 17.0,
+    "width": 13.0,
+    "volume_cm3": 4199.0
+  },
+  {
+    "code": 4106,
+    "name": "HT Koleno 110/67,5°",
+    "height": 20.0,
+    "depth": 18.0,
+    "width": 13.0,
+    "volume_cm3": 4680.0
+  },
+  {
+    "code": 4111,
+    "name": "HT Koleno 110/87,5°",
+    "height": 18.0,
+    "depth": 18.0,
+    "width": 13.0,
+    "volume_cm3": 4212.0
+  },
+  {
+    "code": 4619,
+    "name": "HT Odbočka 87,5° 110/110 mm",
+    "height": 25.0,
+    "depth": 18.0,
+    "width": 13.0,
+    "volume_cm3": 5850.0
+  },
+  {
+    "code": 4618,
+    "name": "HT Odbočka 45° 110/110 mm",
+    "height": 29.0,
+    "depth": 24.0,
+    "width": 13.0,
+    "volume_cm3": 9048.0
+  },
+  {
+    "code": 5150,
+    "name": "HT Odbočka 67,5° 110/110 mm",
+    "height": 21.0,
+    "depth": 26.0,
+    "width": 13.0,
+    "volume_cm3": 7098.0
+  },
+  {
+    "code": 4319,
+    "name": "HT Trubka odpadní 110 x 500 mm",
+    "height": 56.0,
+    "depth": 13.0,
+    "width": 13.0,
+    "volume_cm3": 9464.0
+  },
+  {
     "code": 5831,
     "name": "HT Dvojodbočka 110/110/110 mm 87°",
     "height": 26.0,
@@ -22,5 +94,21 @@
     "depth": 25.0,
     "width": 13.0,
     "volume_cm3": 9425.0
+  },
+  {
+    "code": 8105,
+    "name": "Hlavice ventilační 110 mm, šedá",
+    "height": 20.0,
+    "depth": 20.0,
+    "width": 13.0,
+    "volume_cm3": 5200.0
+  },
+  {
+    "code": 8932,
+    "name": "Hlavice ventilační 110 mm, oranžová",
+    "height": 20.0,
+    "depth": 13.0,
+    "width": 20.0,
+    "volume_cm3": 5200.0
   }
 ]
