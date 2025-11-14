@@ -58,7 +58,9 @@ else:
     df["volume_cm3"] = None
 
 # 6️⃣ Save as JSON
-output_file = "volumes.json"
+os.makedirs("data", exist_ok=True)
+output_file = "data/volumes.json"
+
 data = df.to_dict(orient="records")
 
 with open(output_file, "w", encoding="utf-8") as f:
