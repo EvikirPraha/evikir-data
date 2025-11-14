@@ -8,6 +8,14 @@
     "volume_cm3": 8788.0
   },
   {
+    "code": 7189,
+    "name": "HT Dvojodbočka 110/110/110 mm 45°",
+    "height": 33.0,
+    "depth": 30.0,
+    "width": 13.0,
+    "volume_cm3": 12870.0
+  },
+  {
     "code": 7185,
     "name": "HT Dvojodbočka 110/110/110 mm 67°",
     "height": 29.0,
