@@ -58,7 +58,14 @@ if all([w_col, h_col, d_col]):
 else:
     df["volume_cm3"] = None
 
-# 7️⃣ Keep only valid rows (no NaN or zero)
+# 7️⃣ Drop unnecessary columns
+drop_cols = ["paircode"]
+for col in drop_cols:
+    if col in df.columns:
+        df.drop(columns=col, inplace=True)
+        print(f"🗑️ Dropped column: {col}")
+
+# 8️⃣ Keep only valid rows (no NaN or zero)
 before = len(df)
 df = df[
     df["volume_cm3"].notna() &
@@ -70,7 +77,7 @@ df = df[
 after = len(df)
 print(f"🧹 Filtered out {before - after} invalid rows (NaN or zero values).")
 
-# 8️⃣ Save as JSON
+# 9️⃣ Save as JSON
 os.makedirs("data", exist_ok=True)
 output_file = "data/volumes.json"
 
@@ -79,6 +86,7 @@ with open(output_file, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print(f"💾 Saved {len(df)} valid rows to {output_file}")
+
 
 
 
