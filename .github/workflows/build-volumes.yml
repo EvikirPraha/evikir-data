@@ -1,20 +1,22 @@
 name: Build volumes.json daily
 
 on:
-  workflow_dispatch:       # allows manual trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *"    # runs every day at 5:00 UTC
+    - cron: "0 5 * * *"  # every day at 5 AM UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     env:
-      CSV_URL: ${{ secrets.CSV_URL }}   # 👈 makes the secret available to Python
+      CSV_URL: ${{ secrets.CSV_URL }}
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,11 +28,22 @@ jobs:
           pip install pandas requests openpyxl
 
       - name: Generate volumes.json
-        run: python scripts/generate_volumes.py
+        run: |
+          mkdir -p data
+          python scripts/generate_volumes.py
+
+      - name: Show generated file
+        run: ls -lh volumes.json || ls -lh data
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add volumes.json || true
-          git diff --quiet && echo "✅ No changes to commit" || (git commit -m "Update volumes.json" && git push)
+          git add volumes.json data/volumes.json || true
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit."
+          else
+            git commit -m "Update volumes.json"
+            git push
+            echo "✅ Pushed updated volumes.json"
+          fi
