@@ -23,15 +23,6 @@ jobs:
           echo "Listing files in repository..."
           ls -R .
 
-      - name: Upload volumes.json as artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: volumes-json
-          path: |
-            data/volumes.json
-            volumes.json
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -53,11 +44,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add volumes.json data/volumes.json || true
-          if git diff --cached --quiet; then
-            echo "✅ No changes to commit."
-          else
-            git commit -m "Update volumes.json"
-            git push
-            echo "✅ Pushed updated volumes.json"
-          fi
+          git add volumes.json
+          git diff --cached --quiet && echo "✅ No changes to commit" || (git commit -m "Update volumes.json" && git push)
+
+      - name: Upload volumes.json as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: volumes-json
+          path: volumes.json
+
