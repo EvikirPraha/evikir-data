@@ -18,12 +18,20 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check where JSON file exists
+        run: |
+          echo "Listing files in repository..."
+          ls -R .
+
       - name: Upload volumes.json as artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: volumes-json
-          path: data/volumes.json
-      
+          path: |
+            data/volumes.json
+            volumes.json
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
