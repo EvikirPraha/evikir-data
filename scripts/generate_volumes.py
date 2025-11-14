@@ -1,44 +1,70 @@
 import os
 import pandas as pd
 import requests
+import io
+import json
 
-print("📦 Downloading XLS from:", os.getenv("CSV_URL"))
+print("📦 Starting volumes.json generation...")
 
-url = os.getenv("CSV_URL")
-if not url:
+# 1️⃣ Get URL from GitHub secret
+csv_url = os.getenv("CSV_URL")
+if not csv_url:
     raise RuntimeError("❌ CSV_URL secret not found")
 
-# Download the Excel file
-response = requests.get(url)
+print(f"🔗 Downloading XLS from: {csv_url[:50]}...")
+
+# 2️⃣ Download the Excel file
+response = requests.get(csv_url)
 response.raise_for_status()
 
-# Save temporarily
-with open("products.xls", "wb") as f:
-    f.write(response.content)
+# 3️⃣ Load into pandas DataFrame
+try:
+    df = pd.read_excel(io.BytesIO(response.content))
+    print(f"✅ Excel loaded, {len(df)} rows.")
+except Exception as e:
+    raise RuntimeError(f"❌ Failed to read Excel file: {e}")
 
-# Read Excel instead of CSV
-df = pd.read_excel("products.xls")
+# 4️⃣ Try to detect relevant columns
+df.columns = [str(c).strip().lower() for c in df.columns]
+print("🧱 Columns:", df.columns.tolist())
 
-# Check columns
-print("✅ Columns found:", df.columns.tolist())
+possible_names = {
+    "width": ["šířka", "sirka", "width"],
+    "height": ["výška", "vyska", "height"],
+    "depth": ["hloubka", "depth"]
+}
 
-# --- Adjust these column names if needed ---
-height_col = "height"
-depth_col = "depth"
-width_col = "width"
+def find_col(name_options):
+    for col in df.columns:
+        for option in name_options:
+            if option in col:
+                return col
+    return None
 
-# Compute volume in cubic meters
-df["volume_m3"] = (df[height_col] * df[depth_col] * df[width_col]) / (100**3)
+w_col = find_col(possible_names["width"])
+h_col = find_col(possible_names["height"])
+d_col = find_col(possible_names["depth"])
 
-# Filter by max allowed volume (0.10044 m³)
-max_volume = 0.10044
-df_filtered = df[df["volume_m3"] <= max_volume]
+if not all([w_col, h_col, d_col]):
+    print("⚠️ Could not detect all dimensions automatically.")
+    print(f"Width: {w_col}, Height: {h_col}, Depth: {d_col}")
+else:
+    print(f"✅ Found dimension columns: {w_col}, {h_col}, {d_col}")
 
-# Only keep product name and volume
-df_result = df_filtered[["name", "volume_m3"]]
+# 5️⃣ Compute volume if possible
+if all([w_col, h_col, d_col]):
+    df["volume_cm3"] = df[w_col] * df[h_col] * df[d_col]
+else:
+    df["volume_cm3"] = None
 
-# Save JSON
-df_result.to_json("volumes.json", orient="records", indent=2, force_ascii=False)
-print("✅ volumes.json successfully created")
+# 6️⃣ Save as JSON
+output_file = "volumes.json"
+data = df.to_dict(orient="records")
+
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print(f"💾 Saved {len(df)} rows to {output_file}")
+
 
 
