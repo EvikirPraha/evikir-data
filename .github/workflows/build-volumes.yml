@@ -19,14 +19,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: pip install pandas requests chardet
 
       - name: Generate volumes.json
-        env:
-          CSV_URL: ${{ secrets.CSV_URL }}
         run: |
-          mkdir -p scripts
           python scripts/generate_volumes.py
 
       - name: Commit and push if changed
@@ -38,7 +35,3 @@ jobs:
           git pull --rebase origin main || true
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main || echo "No changes to push"
 
-        git config --global user.name "GitHub Action"
-        git add volumes.json
-        git commit -m "Update volumes.json" || echo "No changes to commit"
-        git push
