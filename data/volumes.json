@@ -64,6 +64,14 @@
     "volume_cm3": 7098.0
   },
   {
+    "code": 4322,
+    "name": "HT Trubka odpadní 110 x 250 mm",
+    "height": 13.0,
+    "depth": 31.0,
+    "width": 13.0,
+    "volume_cm3": 5239.0
+  },
+  {
     "code": 4319,
     "name": "HT Trubka odpadní 110 x 500 mm",
     "height": 56.0,
