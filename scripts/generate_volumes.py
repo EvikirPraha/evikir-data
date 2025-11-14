@@ -4,8 +4,6 @@ import requests
 import io
 
 CSV_URL = os.environ.get("CSV_URL")
-if not CSV_URL:
-    raise RuntimeError("❌ CSV_URL secret not found")
 
 print("📦 Downloading CSV from:", CSV_URL)
 r = requests.get(CSV_URL, timeout=60)
