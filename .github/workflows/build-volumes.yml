@@ -3,7 +3,7 @@ name: Build volumes.json daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *"  # every day at 5 AM UTC
+    - cron: "*/15 * * * *"  # every day 15 min
 
 permissions:
   contents: write
