@@ -40,6 +40,14 @@
     "volume_cm3": 4212.0
   },
   {
+    "code": 4615,
+    "name": "HT Přesuvka 110",
+    "height": 13.0,
+    "depth": 13.0,
+    "width": 13.0,
+    "volume_cm3": 2197.0
+  },
+  {
     "code": 4619,
     "name": "HT Odbočka 87,5° 110/110 mm",
     "height": 25.0,
@@ -109,6 +117,14 @@
     "height": 20.0,
     "depth": 20.0,
     "width": 13.0,
+    "volume_cm3": 5200.0
+  },
+  {
+    "code": 8931,
+    "name": "Hlavice ventilační 110 mm, hnědá",
+    "height": 13.0,
+    "depth": 20.0,
+    "width": 20.0,
     "volume_cm3": 5200.0
   },
   {
