@@ -112,6 +112,22 @@
     "volume_cm3": 9425.0
   },
   {
+    "code": 5237,
+    "name": "HT Koleno s horním připojením 87,5°-110/50 mm",
+    "height": 13.0,
+    "depth": 23.0,
+    "width": 19.0,
+    "volume_cm3": 5681.0
+  },
+  {
+    "code": 5354,
+    "name": "KG Přesuvka 110 mm",
+    "height": 13.0,
+    "depth": 13.0,
+    "width": 13.0,
+    "volume_cm3": 2197.0
+  },
+  {
     "code": 8105,
     "name": "Hlavice ventilační 110 mm, šedá",
     "height": 20.0,
