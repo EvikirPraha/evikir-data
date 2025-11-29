@@ -136,6 +136,14 @@
     "volume_cm3": 5200.0
   },
   {
+    "code": 8283,
+    "name": "HTEPK odbočka paneláková krátká 110/110/50 mm 87° pravá",
+    "height": 17.0,
+    "depth": 19.0,
+    "width": 24.0,
+    "volume_cm3": 7752.0
+  },
+  {
     "code": 8931,
     "name": "Hlavice ventilační 110 mm, hnědá",
     "height": 13.0,
