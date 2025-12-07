@@ -128,6 +128,14 @@
     "volume_cm3": 2197.0
   },
   {
+    "code": 5269,
+    "name": "Plstěný pás 10 m",
+    "height": 8.0,
+    "depth": 16.0,
+    "width": 16.0,
+    "volume_cm3": 2048.0
+  },
+  {
     "code": 8105,
     "name": "Hlavice ventilační 110 mm, šedá",
     "height": 20.0,
