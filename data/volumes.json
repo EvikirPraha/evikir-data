@@ -167,4 +167,12 @@
     "width": 20.0,
     "volume_cm3": 5200.0
   }
+    {
+    "code": 4326,
+    "name": "HT Trubka odpadní 40 x 500 mm",
+    "height": 500.0,
+    "depth": 15.0,
+    "width": 15.0,
+    "volume_cm3": 112500.0
+  }
 ]
