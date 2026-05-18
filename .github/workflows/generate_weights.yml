@@ -3,7 +3,7 @@ name: Generate weights.json
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 10 * * *"
 
 jobs:
   generate:
