@@ -1,0 +1,35 @@
+name: Generate weights.json
+
+on:
+  workflow_dispatch:        # manual run from Actions tab
+  schedule:
+    - cron: "0 3 * * *"    # every day at 03:00 UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pandas requests openpyxl
+
+      - name: Run generate_weights.py
+        env:
+          WEIGHTS_CSV_URL: ${{ secrets.WEIGHTS_CSV_URL }}
+        run: python scripts/generate_weights.py
+
+      - name: Commit and push weights.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/weights.json
+          git diff --staged --quiet || git commit -m "🔄 Auto-update weights.json"
+          git push
