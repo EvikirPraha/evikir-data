@@ -2866,22 +2866,22 @@
   },
   {
     "code": "4714",
-    "name": "Hadice pračková odpadní přímá 100 cm",
+    "name": "Hadice pračková odpadní 100 cm",
     "weight_g": 79.0
   },
   {
     "code": "4715",
-    "name": "Hadice pračková odpadní přímá 150 cm",
+    "name": "Hadice pračková odpadní 150 cm",
     "weight_g": 111.0
   },
   {
     "code": "4716",
-    "name": "Hadice pračková odpadní přímá 200 cm",
+    "name": "Hadice pračková odpadní 200 cm",
     "weight_g": 139.0
   },
   {
     "code": "4719",
-    "name": "Hadice pračková odpadní přímá 500 cm",
+    "name": "Hadice pračková odpadní 500 cm",
     "weight_g": 290.0
   },
   {
@@ -2901,22 +2901,22 @@
   },
   {
     "code": "4707",
-    "name": "Hadice pračková přívodní s kolenem 100 cm",
+    "name": "Hadice pračková přívodní 100 cm s kolenem",
     "weight_g": 147.0
   },
   {
     "code": "4708",
-    "name": "Hadice pračková přívodní s kolenem 150 cm",
+    "name": "Hadice pračková přívodní 150 cm s kolenem",
     "weight_g": 215.0
   },
   {
     "code": "4710",
-    "name": "Hadice pračková přívodní s kolenem 300 cm",
+    "name": "Hadice pračková přívodní 300 cm s kolenem",
     "weight_g": 393.0
   },
   {
     "code": "4712",
-    "name": "Hadice pračková přívodní s kolenem 500 cm",
+    "name": "Hadice pračková přívodní 500 cm s kolenem",
     "weight_g": 607.0
   },
   {
@@ -9823,6 +9823,11 @@
     "code": "8266",
     "name": "Nerez. připojovací trubka 3/4\", 80cm",
     "weight_g": 153.0
+  },
+  {
+    "code": "8268",
+    "name": "Nerez. připojovací trubka 3/4\", 100cm",
+    "weight_g": 202.0
   },
   {
     "code": "8274",
