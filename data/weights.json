@@ -3991,7 +3991,7 @@
   },
   {
     "code": "4963",
-    "name": "Vanová baterie bez příslušenství s ramínkem \"RS\" 330 mm, rozteč 100, PICCOLO chrom 2251/100",
+    "name": "Vanová baterie bez příslušenství s ramínkem \"RS\" 300 mm, rozteč 100, PICCOLO chrom 2251/100",
     "weight_g": 1457.0
   },
   {
@@ -8265,6 +8265,11 @@
     "weight_g": 95.0
   },
   {
+    "code": "7872",
+    "name": "HT Nástrčné hrdlo 125/110 mm, PLASTBRNO",
+    "weight_g": 114.0
+  },
+  {
     "code": "7886",
     "name": "Kartuše plynová 190g, propichovací, STREND PRO",
     "weight_g": 282.0
@@ -8808,6 +8813,11 @@
     "code": "8015",
     "name": "PP Redukce 3/4\" x 1/2\" - plast",
     "weight_g": 6.0
+  },
+  {
+    "code": "8016",
+    "name": "Vrták příklepový SDS+ 16x210mm",
+    "weight_g": 160.0
   },
   {
     "code": "8017",
@@ -9666,7 +9676,7 @@
   },
   {
     "code": "8222",
-    "name": "Mosazné uzavíratelné šroubení k čerpadlu 1\" x 6/4\" s převlečnou matkou",
+    "name": "Mosazné uzavíratelné šroubení k čerpadlu 6/4\" x 1\" s převlečnou matkou",
     "weight_g": 296.0
   },
   {
@@ -11958,6 +11968,11 @@
     "code": "8833",
     "name": "Nerez. připojovací trubka 3/4\", 140cm",
     "weight_g": 233.0
+  },
+  {
+    "code": "8834",
+    "name": "Nerez. připojovací trubka 3/4\", 150cm",
+    "weight_g": 276.0
   },
   {
     "code": "8838",
