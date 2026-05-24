@@ -5891,7 +5891,7 @@
   },
   {
     "code": "5534",
-    "name": "Řezačka GIANT na PVC,Al,Cu trubky 6-35 mm",
+    "name": "Řezačka GIANTOP na PVC,Al,Cu trubky 6-35 mm",
     "weight_g": 406.0
   },
   {
@@ -7548,6 +7548,11 @@
     "code": "7075",
     "name": "Záslepka Tectite T61 - 18 mm, Classic",
     "weight_g": 29.0
+  },
+  {
+    "code": "7446",
+    "name": "Demontážní kleště DT-18",
+    "weight_g": 129.0
   },
   {
     "code": "6213",
@@ -12835,6 +12840,11 @@
     "weight_g": 81.0
   },
   {
+    "code": "9075",
+    "name": "T-kus nerezový 1/2\"",
+    "weight_g": 78.0
+  },
+  {
     "code": "9085",
     "name": "Vsuvka nerezová 3/4\"",
     "weight_g": 57.0
@@ -12845,9 +12855,34 @@
     "weight_g": 41.0
   },
   {
+    "code": "9088",
+    "name": "Nátrubek nerezový 3/4\"",
+    "weight_g": 62.0
+  },
+  {
+    "code": "9089",
+    "name": "Nátrubek nerezový 1\"",
+    "weight_g": 96.0
+  },
+  {
     "code": "9090",
     "name": "Redukce nerezová 3/4\" x 1/2\"",
     "weight_g": 43.0
+  },
+  {
+    "code": "9091",
+    "name": "Redukce nerezová 1/2\" x 3/8\"",
+    "weight_g": 26.0
+  },
+  {
+    "code": "9092",
+    "name": "Redukce nerezová 1\" x 3/4\"",
+    "weight_g": 60.0
+  },
+  {
+    "code": "9093",
+    "name": "Prodloužení nerez 1/2\" x 10 mm",
+    "weight_g": 32.0
   },
   {
     "code": "9102",
