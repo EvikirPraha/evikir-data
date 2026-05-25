@@ -2,7 +2,7 @@ name: Generate reviews.xml
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Every day at 5:00 UTC
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 permissions:
@@ -14,13 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
       - name: Fetch and save reviews
-        run: python scripts/generate_reviews.py
+        run: |
+          curl -L \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
+            -H "Accept-Language: cs-CZ,cs;q=0.9" \
+            -H "Referer: https://www.heureka.cz/" \
+            -o data/reviews.xml \
+            "https://www.heureka.cz/direct/dotaznik/export-review.php?key=92e89a3db1d387c08989d130cf1977f0"
+          echo "Done. File size: $(wc -c < data/reviews.xml) bytes"
 
       - name: Commit and push
         run: |
