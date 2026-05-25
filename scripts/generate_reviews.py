@@ -1,15 +1,17 @@
-import urllib.request
+import cloudscraper
 
 url = "https://www.heureka.cz/direct/dotaznik/export-review.php?key=92e89a3db1d387c08989d130cf1977f0"
 
-req = urllib.request.Request(url, headers={
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
-})
+scraper = cloudscraper.create_scraper()
+response = scraper.get(url)
 
-with urllib.request.urlopen(req) as response:
-    xml_data = response.read()
+if response.status_code != 200:
+    raise Exception(f"Failed: HTTP {response.status_code}")
 
-with open("data/reviews.xml", "wb") as f:
-    f.write(xml_data)
+if "<review>" not in response.text:
+    raise Exception(f"No reviews in response. Got: {response.text[:200]}")
 
-print("reviews.xml saved successfully")
+with open("data/reviews.xml", "w", encoding="utf-8") as f:
+    f.write(response.text)
+
+print(f"Saved successfully. Size: {len(response.text)} bytes")
