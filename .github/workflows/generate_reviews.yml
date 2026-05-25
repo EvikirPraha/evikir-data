@@ -1,0 +1,31 @@
+name: Generate reviews.xml
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # Every day at 5:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and save reviews
+        run: python scripts/generate_reviews.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/reviews.xml
+          git diff --cached --quiet || git commit -m "Auto-update reviews.xml $(date '+%Y-%m-%d')"
+          git push
