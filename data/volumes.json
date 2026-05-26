@@ -72,6 +72,14 @@
     "volume_cm3": 7098.0
   },
   {
+    "code": 4326,
+    "name": "HT Trubka odpadní 40 x 500 mm",
+    "height": 5.5,
+    "depth": 55.0,
+    "width": 5.5,
+    "volume_cm3": 1663.75
+  },
+  {
     "code": 4322,
     "name": "HT Trubka odpadní 110 x 250 mm",
     "height": 13.0,
@@ -166,5 +174,13 @@
     "depth": 13.0,
     "width": 20.0,
     "volume_cm3": 5200.0
+  },
+  {
+    "code": 6138,
+    "name": "Šachtový komplet revizní 300 x 300 mm s poklopem",
+    "height": 0.3,
+    "depth": 0.3,
+    "width": 0.3,
+    "volume_cm3": 0.027
   }
 ]
