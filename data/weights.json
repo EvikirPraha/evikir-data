@@ -1440,6 +1440,11 @@
     "weight_g": 38.0
   },
   {
+    "code": "5899",
+    "name": "PPR Nátrubek redukovaný 50 x 40",
+    "weight_g": 61.0
+  },
+  {
     "code": "6297",
     "name": "PPR Rozebíratelná spojka 20 mm",
     "weight_g": 71.0
@@ -1976,7 +1981,7 @@
   },
   {
     "code": "5274",
-    "name": "Adaptér 15 x 3/4\" pro připojení měděných trubek na ventil s eurokonusem, STENO",
+    "name": "Adaptér 15 x 3/4\" pro připojení měděných trubek na ventil s eurokonusem",
     "weight_g": 46.0
   },
   {
@@ -2883,6 +2888,16 @@
     "code": "4716",
     "name": "Hadice pračková odpadní 200 cm",
     "weight_g": 139.0
+  },
+  {
+    "code": "4717",
+    "name": "Hadice pračková odpadní 300 cm",
+    "weight_g": 171.0
+  },
+  {
+    "code": "4718",
+    "name": "Hadice pračková odpadní 400 cm",
+    "weight_g": 245.0
   },
   {
     "code": "4719",
@@ -4698,6 +4713,11 @@
     "code": "4902",
     "name": "Dvířka vanová Haco plastová 30 x 30 cm bílá",
     "weight_g": 277.0
+  },
+  {
+    "code": "4904",
+    "name": "Dvířka vanová Haco plastová 30 x 40 cm bílá",
+    "weight_g": 385.0
   },
   {
     "code": "6127",
@@ -7178,6 +7198,11 @@
     "code": "5929",
     "name": "Mosazný sací koš 1\"",
     "weight_g": 233.0
+  },
+  {
+    "code": "5930",
+    "name": "Mosazný sací koš 5/4\"",
+    "weight_g": 357.0
   },
   {
     "code": "5931",
@@ -9695,6 +9720,11 @@
     "weight_g": 33.0
   },
   {
+    "code": "7428",
+    "name": "HTEPK odbočka paneláková dlouhá 110/110/75 mm 67° pravá",
+    "weight_g": 514.0
+  },
+  {
     "code": "8222",
     "name": "Mosazné uzavíratelné šroubení k čerpadlu 6/4\" x 1\" s převlečnou matkou",
     "weight_g": 296.0
@@ -9788,6 +9818,11 @@
     "code": "8239",
     "name": "Pojišťovací ventil 3/4\" FF- 6 Bar",
     "weight_g": 180.0
+  },
+  {
+    "code": "8240",
+    "name": "Stahovací pásky 120x2,5mm , 100ks, černé",
+    "weight_g": 35.0
   },
   {
     "code": "8241",
@@ -10581,7 +10616,7 @@
   },
   {
     "code": "8455",
-    "name": "Rohový ventil SOLID 1/2\" x 3/4\" x 3/8\" s keramickou kartuší",
+    "name": "Kombinovaný ventil 1/2\" x 3/4\" x 3/8\" s keramickou kartuší, SOLID",
     "weight_g": 194.0
   },
   {
@@ -10646,7 +10681,7 @@
   },
   {
     "code": "8473",
-    "name": "Rohový ventil Art 1/2\" x 3/4\" x 3/8\" s keramickou kartuší",
+    "name": "Kombinovaný ventil 1/2\" x 3/4\" x 3/8\" s keramickou kartuší, Art",
     "weight_g": 165.0
   },
   {
@@ -11446,7 +11481,7 @@
   },
   {
     "code": "8664",
-    "name": "Sada kulových kohoutů s teplotním čidlem 1\" (RKMSV03)",
+    "name": "Sada přímých kulových kohoutů s teplotním čidlem 1\" (RKMSV03)",
     "weight_g": 1031.0
   },
   {
@@ -11933,6 +11968,11 @@
     "code": "8815",
     "name": "Nátrubek mosazný reduk. 6/4\" x 5/4\"",
     "weight_g": 132.0
+  },
+  {
+    "code": "8816",
+    "name": "Samočistící filtr 1\" (studená voda) RMCF03",
+    "weight_g": 1291.0
   },
   {
     "code": "8819",
@@ -12903,6 +12943,11 @@
     "code": "9102",
     "name": "Nerezový kulový kohout 1\"",
     "weight_g": 340.0
+  },
+  {
+    "code": "9116",
+    "name": "Redukční ventil 3/4\" s filtrem (horká voda), RCFR02-HS",
+    "weight_g": 1100.0
   },
   {
     "code": "6138",
