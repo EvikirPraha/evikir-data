@@ -1,5 +1,13 @@
 [
   {
+    "code": 4095,
+    "name": "HT Koleno 75/15°",
+    "height": 9.0,
+    "depth": 14.0,
+    "width": 9.0,
+    "volume_cm3": 1134.0
+  },
+  {
     "code": 4091,
     "name": "HT Koleno 110/15°",
     "height": 16.0,
@@ -14,6 +22,14 @@
     "depth": 14.0,
     "width": 13.0,
     "volume_cm3": 3094.0
+  },
+  {
+    "code": 4100,
+    "name": "HT Koleno 75/30°",
+    "height": 9.0,
+    "depth": 15.0,
+    "width": 9.0,
+    "volume_cm3": 1215.0
   },
   {
     "code": 4101,
@@ -38,6 +54,30 @@
     "depth": 18.0,
     "width": 13.0,
     "volume_cm3": 4212.0
+  },
+  {
+    "code": 4105,
+    "name": "HT Koleno 75/45°",
+    "height": 9.0,
+    "depth": 15.0,
+    "width": 9.0,
+    "volume_cm3": 1215.0
+  },
+  {
+    "code": 4110,
+    "name": "HT Koleno 75/67,5°",
+    "height": 9.0,
+    "depth": 16.0,
+    "width": 9.0,
+    "volume_cm3": 1296.0
+  },
+  {
+    "code": 4115,
+    "name": "HT Koleno 75/87,5°",
+    "height": 9.0,
+    "depth": 17.0,
+    "width": 9.0,
+    "volume_cm3": 1377.0
   },
   {
     "code": 4615,
