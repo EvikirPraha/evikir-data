@@ -440,6 +440,11 @@
     "weight_g": 167.0
   },
   {
+    "code": "4097",
+    "name": "HT Koleno 32/30°",
+    "weight_g": 22.0
+  },
+  {
     "code": "4098",
     "name": "HT Koleno 40/30°",
     "weight_g": 31.0
@@ -575,6 +580,11 @@
     "weight_g": 24.0
   },
   {
+    "code": "4125",
+    "name": "HT Redukce krátká 75/40 mm",
+    "weight_g": 48.0
+  },
+  {
     "code": "4126",
     "name": "HT Redukce krátká 75/50 mm",
     "weight_g": 48.0
@@ -635,6 +645,16 @@
     "weight_g": 108.0
   },
   {
+    "code": "4149",
+    "name": "HT Odbočka reduk. 87,5° 75/50 mm",
+    "weight_g": 104.0
+  },
+  {
+    "code": "4317",
+    "name": "HT Odbočka reduk. 87,5° 110/40 mm",
+    "weight_g": 175.0
+  },
+  {
     "code": "4316",
     "name": "HT Odbočka reduk. 87,5° 110/50 mm",
     "weight_g": 203.0
@@ -665,6 +685,16 @@
     "weight_g": 87.0
   },
   {
+    "code": "4134",
+    "name": "HT Odbočka 45° 75/75 mm",
+    "weight_g": 150.0
+  },
+  {
+    "code": "4867",
+    "name": "HT Odbočka reduk. 45° 110/75 mm",
+    "weight_g": 294.0
+  },
+  {
     "code": "4869",
     "name": "HT Odbočka reduk. 45° 110/40 mm",
     "weight_g": 179.0
@@ -678,6 +708,11 @@
     "code": "4142",
     "name": "HT Odbočka reduk. 45° 50/40 mm",
     "weight_g": 73.0
+  },
+  {
+    "code": "4143",
+    "name": "HT Odbočka reduk. 45° 75/40 mm",
+    "weight_g": 116.0
   },
   {
     "code": "4144",
@@ -700,9 +735,19 @@
     "weight_g": 76.0
   },
   {
+    "code": "4137",
+    "name": "HT Odbočka 67,5° 75/75 mm",
+    "weight_g": 145.0
+  },
+  {
     "code": "4146",
     "name": "HT Odbočka reduk. 67,5° 50/40 mm",
     "weight_g": 69.0
+  },
+  {
+    "code": "4145",
+    "name": "HT Odbočka reduk. 67,5° 75/50 mm",
+    "weight_g": 122.0
   },
   {
     "code": "4613",
@@ -1175,6 +1220,11 @@
     "weight_g": 78.0
   },
   {
+    "code": "4157",
+    "name": "HT Čistící kus 75 mm",
+    "weight_g": 146.0
+  },
+  {
     "code": "4155",
     "name": "HT Čistící kus 110 mm",
     "weight_g": 300.0
@@ -1325,14 +1375,29 @@
     "weight_g": 238.0
   },
   {
+    "code": "5871",
+    "name": "HT Prodloužené hrdlo 40 mm",
+    "weight_g": 43.0
+  },
+  {
     "code": "5872",
     "name": "HT Prodloužené hrdlo 50 mm",
     "weight_g": 68.0
   },
   {
+    "code": "5149",
+    "name": "HT Prodloužené hrdlo 75 mm",
+    "weight_g": 119.0
+  },
+  {
     "code": "5232",
     "name": "HT Přechodka na litinu 110",
     "weight_g": 138.0
+  },
+  {
+    "code": "5230",
+    "name": "HT Přechodka na litinu 50",
+    "weight_g": 48.0
   },
   {
     "code": "5231",
@@ -1910,6 +1975,11 @@
     "weight_g": 12.0
   },
   {
+    "code": "7066",
+    "name": "Záslepka Tectite TT61 - 18 mm, Sprint",
+    "weight_g": 14.0
+  },
+  {
     "code": "7067",
     "name": "Záslepka Tectite TT61 - 22 mm, Sprint",
     "weight_g": 24.0
@@ -1923,6 +1993,11 @@
     "code": "7242",
     "name": "Koleno Tectite TT12 - 18 mm, Sprint",
     "weight_g": 44.0
+  },
+  {
+    "code": "7243",
+    "name": "Koleno Tectite TT12 - 22 mm, Sprint",
+    "weight_g": 64.0
   },
   {
     "code": "7053",
@@ -1945,9 +2020,24 @@
     "weight_g": 38.0
   },
   {
+    "code": "7063",
+    "name": "Koleno Tectite TT12S - 18 mm, Sprint",
+    "weight_g": 44.0
+  },
+  {
+    "code": "7064",
+    "name": "Koleno Tectite TT12S - 22 mm, Sprint",
+    "weight_g": 68.0
+  },
+  {
     "code": "7058",
     "name": "Spojka Tectite TT2, 15 x 1/2\" vnitřní, Sprint",
     "weight_g": 37.0
+  },
+  {
+    "code": "7059",
+    "name": "Spojka Tectite TT2, 18 x 3/4\" vnitřní, Sprint",
+    "weight_g": 66.0
   },
   {
     "code": "7060",
@@ -1958,6 +2048,11 @@
     "code": "7073",
     "name": "Spojka Tectite TT3, 15 x 1/2\" vnější, Sprint",
     "weight_g": 42.0
+  },
+  {
+    "code": "7061",
+    "name": "Spojka Tectite TT3, 18 x 3/4\" vnější, Sprint",
+    "weight_g": 70.0
   },
   {
     "code": "7062",
@@ -1978,6 +2073,16 @@
     "code": "7190",
     "name": "HT Dvojodbočka 50/110/50 mm 45°",
     "weight_g": 274.0
+  },
+  {
+    "code": "7185",
+    "name": "HT Dvojodbočka 110/110/110 mm 67°",
+    "weight_g": 402.0
+  },
+  {
+    "code": "7191",
+    "name": "HT Dvojodbočka 50/110/50 mm 67°",
+    "weight_g": 227.0
   },
   {
     "code": "5274",
@@ -2505,9 +2610,29 @@
     "weight_g": 37.0
   },
   {
+    "code": "5970",
+    "name": "Cu lisovací nátrubek 18",
+    "weight_g": 43.0
+  },
+  {
+    "code": "6163",
+    "name": "Cu lisovací nátrubek 22",
+    "weight_g": 65.0
+  },
+  {
+    "code": "6418",
+    "name": "Cu lisovací nátrubek 28",
+    "weight_g": 81.0
+  },
+  {
     "code": "5966",
     "name": "Cu lisovací T-kus 15",
     "weight_g": 81.0
+  },
+  {
+    "code": "5967",
+    "name": "Cu lisovací T-kus 18",
+    "weight_g": 121.0
   },
   {
     "code": "6162",
@@ -2515,9 +2640,24 @@
     "weight_g": 148.0
   },
   {
+    "code": "6417",
+    "name": "Cu lisovací T-kus 28",
+    "weight_g": 186.0
+  },
+  {
+    "code": "7090",
+    "name": "Cu lisovací redukce 18-15",
+    "weight_g": 40.0
+  },
+  {
     "code": "7076",
     "name": "Cu lisovací redukce 22-15",
     "weight_g": 44.0
+  },
+  {
+    "code": "7077",
+    "name": "Cu lisovací redukce 22-18",
+    "weight_g": 47.0
   },
   {
     "code": "5960",
@@ -2525,9 +2665,24 @@
     "weight_g": 52.0
   },
   {
+    "code": "5961",
+    "name": "Cu lisovací přechod 18-1/2\" vnější",
+    "weight_g": 57.0
+  },
+  {
     "code": "6703",
     "name": "Cu lisovací přechod 18-3/4\" vnější",
     "weight_g": 86.0
+  },
+  {
+    "code": "6574",
+    "name": "Cu lisovací přechod 22-1\" vnější",
+    "weight_g": 166.0
+  },
+  {
+    "code": "6861",
+    "name": "Cu lisovací přechod 22-1/2\" vnější",
+    "weight_g": 71.0
   },
   {
     "code": "6383",
@@ -2555,9 +2710,69 @@
     "weight_g": 74.0
   },
   {
+    "code": "6575",
+    "name": "Cu lisovací přechod 22-1\" vnitřní",
+    "weight_g": 107.0
+  },
+  {
+    "code": "6710",
+    "name": "Cu lisovací přechod 22-1/2\" vnitřní",
+    "weight_g": 116.0
+  },
+  {
+    "code": "6384",
+    "name": "Cu lisovací přechod 22-3/4\" vnitřní",
+    "weight_g": 101.0
+  },
+  {
     "code": "7559",
     "name": "Cu lisovací přechod 28-1\" vnitřní",
     "weight_g": 141.0
+  },
+  {
+    "code": "6509",
+    "name": "Cu lisovací víčko 15",
+    "weight_g": 19.0
+  },
+  {
+    "code": "6510",
+    "name": "Cu lisovací víčko 18",
+    "weight_g": 34.0
+  },
+  {
+    "code": "6511",
+    "name": "Cu lisovací víčko 22",
+    "weight_g": 35.0
+  },
+  {
+    "code": "6512",
+    "name": "Cu lisovací víčko 28",
+    "weight_g": 51.0
+  },
+  {
+    "code": "5968",
+    "name": "Cu lisovací nátrubek redukovaný 18-15",
+    "weight_g": 40.0
+  },
+  {
+    "code": "6285",
+    "name": "Cu lisovací nátrubek redukovaný 22-15",
+    "weight_g": 52.0
+  },
+  {
+    "code": "6286",
+    "name": "Cu lisovací nátrubek redukovaný 22x18",
+    "weight_g": 53.0
+  },
+  {
+    "code": "6847",
+    "name": "Cu lisovací T-kus redukovaný 18-15-18",
+    "weight_g": 86.0
+  },
+  {
+    "code": "7119",
+    "name": "Cu lisovací T-kus redukovaný 22-15-22",
+    "weight_g": 124.0
   },
   {
     "code": "6848",
@@ -2570,14 +2785,49 @@
     "weight_g": 39.0
   },
   {
+    "code": "6028",
+    "name": "Cu lisovací oblouk 45°/18",
+    "weight_g": 50.0
+  },
+  {
+    "code": "6161",
+    "name": "Cu lisovací oblouk 45°/22",
+    "weight_g": 73.0
+  },
+  {
+    "code": "6158",
+    "name": "Cu lisovací oblouk FM 45°/15",
+    "weight_g": 39.0
+  },
+  {
+    "code": "6160",
+    "name": "Cu lisovací oblouk FM 45°/18",
+    "weight_g": 46.0
+  },
+  {
+    "code": "6159",
+    "name": "Cu lisovací oblouk FM 45°/22",
+    "weight_g": 68.0
+  },
+  {
     "code": "6025",
     "name": "Cu lisovací oblouk FM 90°/15",
     "weight_g": 43.0
   },
   {
+    "code": "6026",
+    "name": "Cu lisovací oblouk FM 90°/18",
+    "weight_g": 52.0
+  },
+  {
     "code": "6156",
     "name": "Cu lisovací oblouk FM 90°/22",
     "weight_g": 84.0
+  },
+  {
+    "code": "7013",
+    "name": "HT Redukce excentr. dlouhá 110/40 mm",
+    "weight_g": 97.0
   },
   {
     "code": "4616",
@@ -4683,6 +4933,11 @@
     "code": "6637",
     "name": "HT Flexi hadice CF50250, 50 x 250 mm",
     "weight_g": 72.0
+  },
+  {
+    "code": "6638",
+    "name": "HT Flexi hadice CF50500, 50 x 500 mm",
+    "weight_g": 136.0
   },
   {
     "code": "6052",
@@ -6860,6 +7115,11 @@
     "weight_g": 41.0
   },
   {
+    "code": "7665",
+    "name": "HT Těsnící kroužek 125 mm",
+    "weight_g": 28.0
+  },
+  {
     "code": "7100",
     "name": "Schell Ventil pračkový 1/2\" x 3/4\"",
     "weight_g": 129.0
@@ -7213,6 +7473,11 @@
     "code": "5485",
     "name": "Stura facile čistič odpadu  Forte Professional 1000ml",
     "weight_g": 100000.0
+  },
+  {
+    "code": "4159",
+    "name": "HT Dvojodbočka 50/50/50 mm 67°",
+    "weight_g": 102.0
   },
   {
     "code": "4517",
@@ -7585,9 +7850,24 @@
     "weight_g": 29.0
   },
   {
+    "code": "7069",
+    "name": "Záslepka Tectite T61 - 22 mm, Classic",
+    "weight_g": 40.0
+  },
+  {
+    "code": "7445",
+    "name": "Demontážní kleště DT-15",
+    "weight_g": 127.0
+  },
+  {
     "code": "7446",
     "name": "Demontážní kleště DT-18",
     "weight_g": 129.0
+  },
+  {
+    "code": "7447",
+    "name": "Demontážní kleště DT-22",
+    "weight_g": 131.0
   },
   {
     "code": "6213",
@@ -7698,6 +7978,11 @@
     "code": "6358",
     "name": "Těsnění pro výtokové ramínko 18 mm - PA/421",
     "weight_g": 2.0
+  },
+  {
+    "code": "7354",
+    "name": "Cu lisovací nástěnka 15 x 1/2\"",
+    "weight_g": 92.0
   },
   {
     "code": "7764",
@@ -7833,6 +8118,11 @@
     "code": "7784",
     "name": "Cu lisovací T-kus redukovaný 28-22-28",
     "weight_g": 166.0
+  },
+  {
+    "code": "7785",
+    "name": "Cu lisovací redukce 28-22",
+    "weight_g": 72.0
   },
   {
     "code": "6688",
@@ -8990,9 +9280,49 @@
     "weight_g": 25.0
   },
   {
+    "code": "8036",
+    "name": "Redukce Tectite TT6, 28x15, Sprint",
+    "weight_g": 41.0
+  },
+  {
+    "code": "8037",
+    "name": "Redukce Tectite TT6, 28x22, Sprint",
+    "weight_g": 40.0
+  },
+  {
+    "code": "8048",
+    "name": "Spojka Tectite TT1 - 28 mm, Sprint",
+    "weight_g": 53.0
+  },
+  {
+    "code": "8049",
+    "name": "Spojka Tectite TT2, 28 x 1\" vnitřní, Sprint",
+    "weight_g": 94.0
+  },
+  {
+    "code": "8050",
+    "name": "Spojka Tectite TT3, 28 x 1\" vnější, Sprint",
+    "weight_g": 87.0
+  },
+  {
     "code": "8051",
     "name": "Koleno Tectite TT12 - 28 mm, Sprint",
     "weight_g": 108.0
+  },
+  {
+    "code": "8052",
+    "name": "T-kus Tectite TT24 - 28 x 28 x 28 mm, Sprint",
+    "weight_g": 129.0
+  },
+  {
+    "code": "8053",
+    "name": "Záslepka Tectite TT61 - 28 mm, Sprint",
+    "weight_g": 29.0
+  },
+  {
+    "code": "8054",
+    "name": "Nástěnka Tectite TT15- 15 x 1/2\", Sprint",
+    "weight_g": 71.0
   },
   {
     "code": "8055",
@@ -9345,6 +9675,11 @@
     "weight_g": 110.0
   },
   {
+    "code": "5228",
+    "name": "Objímka polo-clip 32 x 40 x 50 mm šedivý",
+    "weight_g": 21.0
+  },
+  {
     "code": "7271",
     "name": "PPR Zátka 1/2\"",
     "weight_g": 4.0
@@ -9538,6 +9873,11 @@
     "code": "8179",
     "name": "Těsnění TEMASIL - HT 1\" - 30 x 20 x 2mm",
     "weight_g": 1.0
+  },
+  {
+    "code": "8180",
+    "name": "KG Těsnící kroužek 160 mm",
+    "weight_g": 47.0
   },
   {
     "code": "6935",
@@ -10120,9 +10460,29 @@
     "weight_g": 9.0
   },
   {
+    "code": "8322",
+    "name": "Demontážní kleště DT-28",
+    "weight_g": 137.0
+  },
+  {
     "code": "8323",
     "name": "Spojka Tectite T3, 18 x 1/2\" vnější, Classic",
     "weight_g": 62.0
+  },
+  {
+    "code": "8324",
+    "name": "Koleno Tectite T12 - 28 mm, Classic",
+    "weight_g": 184.0
+  },
+  {
+    "code": "8325",
+    "name": "Spojka Tectite T1 - 28 mm, Classic",
+    "weight_g": 129.0
+  },
+  {
+    "code": "8326",
+    "name": "T-kus Tectite T24 - 28 x 28 x 28 mm, Classic",
+    "weight_g": 261.0
   },
   {
     "code": "8327",
@@ -10158,6 +10518,11 @@
     "code": "8334",
     "name": "Zpětná klapka 3/8\"F x 1/2\"M",
     "weight_g": 34.0
+  },
+  {
+    "code": "8337",
+    "name": "HT Koncovka 32 mm rohová, pro připojení hadice 10-13 mm",
+    "weight_g": 17.0
   },
   {
     "code": "8338",
@@ -10335,6 +10700,11 @@
     "weight_g": 412.0
   },
   {
+    "code": "8378",
+    "name": "Spojka Tectite T2, 15 x 1/2\" vnitřní, Classic",
+    "weight_g": 52.0
+  },
+  {
     "code": "8379",
     "name": "Spojka Tectite T2, 18 x 3/4\" vnitřní, Classic",
     "weight_g": 83.0
@@ -10342,6 +10712,11 @@
   {
     "code": "8380",
     "name": "Spojka Tectite T2, 22 x 3/4\" vnitřní, Classic",
+    "weight_g": 80.0
+  },
+  {
+    "code": "8381",
+    "name": "Koleno Tectite T12S - 18 mm, Classic",
     "weight_g": 80.0
   },
   {
@@ -10358,6 +10733,11 @@
     "code": "8384",
     "name": "Koleno 45° Tectite T21 - 15 mm, Classic",
     "weight_g": 50.0
+  },
+  {
+    "code": "8385",
+    "name": "Koleno 45° Tectite T21 - 18 mm, Classic",
+    "weight_g": 60.0
   },
   {
     "code": "8388",
@@ -10510,9 +10890,29 @@
     "weight_g": 125.0
   },
   {
+    "code": "8430",
+    "name": "T-kus Tectite T30 - 15 x 1/2\" x 15 mm, Classic",
+    "weight_g": 90.0
+  },
+  {
     "code": "8431",
     "name": "T-kus Tectite T30 - 22 x 1/2\" x 22 mm, Classic",
     "weight_g": 132.0
+  },
+  {
+    "code": "8432",
+    "name": "Koleno Tectite T12S - 15 mm, Classic",
+    "weight_g": 59.0
+  },
+  {
+    "code": "8433",
+    "name": "Koleno Tectite T12S - 28 mm, Classic",
+    "weight_g": 178.0
+  },
+  {
+    "code": "8434",
+    "name": "Koleno 45° Tectite T21 - 22 mm, Classic",
+    "weight_g": 88.0
   },
   {
     "code": "8435",
@@ -10790,6 +11190,11 @@
     "weight_g": 99.0
   },
   {
+    "code": "8495",
+    "name": "Cu lisovací oblouk FM 45°/28",
+    "weight_g": 102.0
+  },
+  {
     "code": "8496",
     "name": "Cu lisovací oblouk FM 90°/28",
     "weight_g": 123.0
@@ -10915,6 +11320,11 @@
     "weight_g": 161.0
   },
   {
+    "code": "8521",
+    "name": "Svěrný přechod na CU trubku 15x3/4\" vnitřní",
+    "weight_g": 106.0
+  },
+  {
     "code": "8522",
     "name": "Svěrný přechod na CU trubku 18x3/4\" vnitřní",
     "weight_g": 119.0
@@ -10950,6 +11360,16 @@
     "weight_g": 72.0
   },
   {
+    "code": "8529",
+    "name": "Svěrné koleno na CU trubku 18x1/2\" vnější",
+    "weight_g": 98.0
+  },
+  {
+    "code": "8530",
+    "name": "Svěrné koleno na CU trubku 18x3/4\" vnější",
+    "weight_g": 119.0
+  },
+  {
     "code": "8531",
     "name": "Svěrné koleno na CU trubku 22x3/4\" vnější",
     "weight_g": 131.0
@@ -10968,6 +11388,16 @@
     "code": "8534",
     "name": "Svěrné koleno na CU trubku 18x1/2\" vnitřní",
     "weight_g": 97.0
+  },
+  {
+    "code": "8535",
+    "name": "Svěrné koleno na CU trubku 15x3/4\" vnitřní",
+    "weight_g": 105.0
+  },
+  {
+    "code": "8536",
+    "name": "Svěrné koleno na CU trubku 18x3/4\" vnitřní",
+    "weight_g": 118.0
   },
   {
     "code": "8537",
@@ -11058,6 +11488,11 @@
     "code": "8556",
     "name": "Koleno 45° Tectite TT21 - 22 mm, Sprint",
     "weight_g": 57.0
+  },
+  {
+    "code": "8557",
+    "name": "Koleno 45° Tectite TT21 - 28 mm, Sprint",
+    "weight_g": 90.0
   },
   {
     "code": "8558",
@@ -11980,6 +12415,11 @@
     "weight_g": 210.0
   },
   {
+    "code": "8820",
+    "name": "Spojka Tectite T2, 18 x 1/2\" vnitřní, Classic",
+    "weight_g": 51.0
+  },
+  {
     "code": "8821",
     "name": "CU koleno 90° 4090G, 18x1/2\" vnitřní",
     "weight_g": 45.0
@@ -12285,9 +12725,29 @@
     "weight_g": 22.0
   },
   {
+    "code": "8891",
+    "name": "Koleno Tectite TT13, 15 x 1/2\" vnější, Sprint",
+    "weight_g": 48.0
+  },
+  {
+    "code": "8892",
+    "name": "Koleno Tectite TT13, 22 x 3/4\" vnější, Sprint",
+    "weight_g": 85.0
+  },
+  {
     "code": "8893",
     "name": "Koleno Tectite TT14, 22 x 3/4\" vnitřní, Sprint",
     "weight_g": 103.0
+  },
+  {
+    "code": "8894",
+    "name": "Koleno 45° Tectite TT21S - 22 mm, Sprint",
+    "weight_g": 54.0
+  },
+  {
+    "code": "8895",
+    "name": "Koleno 45° Tectite TT21S - 28 mm, Sprint",
+    "weight_g": 84.0
   },
   {
     "code": "8896",
@@ -12300,9 +12760,59 @@
     "weight_g": 69.0
   },
   {
+    "code": "8898",
+    "name": "Koleno Tectite T13, 15 x 1/2\" vnější, Classic",
+    "weight_g": 56.0
+  },
+  {
+    "code": "8899",
+    "name": "Koleno Tectite T13, 22 x 3/4\" vnější, Classic",
+    "weight_g": 123.0
+  },
+  {
+    "code": "8900",
+    "name": "Koleno Tectite T13, 28 x 1\" vnější, Classic",
+    "weight_g": 156.0
+  },
+  {
+    "code": "8901",
+    "name": "Koleno Tectite T14, 15 x 1/2\" vnitřní, Classic",
+    "weight_g": 65.0
+  },
+  {
+    "code": "8902",
+    "name": "Koleno Tectite T14, 18 x 1/2\" vnitřní, Classic",
+    "weight_g": 68.0
+  },
+  {
+    "code": "8903",
+    "name": "Koleno Tectite T14, 22 x 3/4\" vnitřní, Classic",
+    "weight_g": 141.0
+  },
+  {
+    "code": "8904",
+    "name": "Koleno Tectite T14, 28 x 1\" vnitřní, Classic",
+    "weight_g": 197.0
+  },
+  {
+    "code": "8905",
+    "name": "Nástěnka Tectite T15, 15 x 1/2\" vnitřní, Classic",
+    "weight_g": 105.0
+  },
+  {
     "code": "8906",
     "name": "Koleno 45° Tectite T21S - 22 mm, Classic",
     "weight_g": 97.0
+  },
+  {
+    "code": "8907",
+    "name": "Koleno 45° Tectite T21S - 28 mm, Classic",
+    "weight_g": 123.0
+  },
+  {
+    "code": "8908",
+    "name": "Záslepka Tectite T61RV - 22 mm s ventilkem, Classic",
+    "weight_g": 72.0
   },
   {
     "code": "8910",
@@ -12313,6 +12823,11 @@
     "code": "8911",
     "name": "Svěrný kříž na CU trubku 22 x 22 x 22 x 22",
     "weight_g": 290.0
+  },
+  {
+    "code": "8912",
+    "name": "Redukovaná spojka Tectite T1R, 28 x 22, Classic",
+    "weight_g": 111.0
   },
   {
     "code": "8913",
@@ -12635,6 +13150,21 @@
     "weight_g": 43.0
   },
   {
+    "code": "8993",
+    "name": "HT Redukce hrdlová 40/32 mm",
+    "weight_g": 25.0
+  },
+  {
+    "code": "8994",
+    "name": "HT Redukce hrdlová 50/40 mm",
+    "weight_g": 35.0
+  },
+  {
+    "code": "8995",
+    "name": "HT Redukce obrácená 40/32 mm, bílá, DES",
+    "weight_g": 20.0
+  },
+  {
     "code": "8996",
     "name": "HT Redukce obrácená 50/32 mm, bílá, DES",
     "weight_g": 30.0
@@ -12895,14 +13425,79 @@
     "weight_g": 81.0
   },
   {
+    "code": "9072",
+    "name": "Nerezové koleno 1/2\" FF",
+    "weight_g": 57.0
+  },
+  {
+    "code": "9073",
+    "name": "Nerezové koleno 3/4\" FF",
+    "weight_g": 68.0
+  },
+  {
+    "code": "9074",
+    "name": "Nerezové koleno 1\" FF",
+    "weight_g": 129.0
+  },
+  {
     "code": "9075",
     "name": "T-kus nerezový 1/2\"",
     "weight_g": 78.0
   },
   {
+    "code": "9076",
+    "name": "T-kus nerezový 3/4\"",
+    "weight_g": 95.0
+  },
+  {
+    "code": "9077",
+    "name": "T-kus nerezový 1\"",
+    "weight_g": 169.0
+  },
+  {
+    "code": "9078",
+    "name": "Nerezové koleno 1/2\" FM",
+    "weight_g": 53.0
+  },
+  {
+    "code": "9079",
+    "name": "Nerezové koleno 3/4\" FM",
+    "weight_g": 74.0
+  },
+  {
+    "code": "9080",
+    "name": "Nerezové koleno 1\" FM",
+    "weight_g": 129.0
+  },
+  {
+    "code": "9081",
+    "name": "Nerezové koleno 1/2\" MM",
+    "weight_g": 61.0
+  },
+  {
+    "code": "9082",
+    "name": "Nerezové koleno 3/4\" MM",
+    "weight_g": 90.0
+  },
+  {
+    "code": "9083",
+    "name": "Nerezové koleno 1\" MM",
+    "weight_g": 132.0
+  },
+  {
+    "code": "9084",
+    "name": "Vsuvka nerezová 1/2\"",
+    "weight_g": 41.0
+  },
+  {
     "code": "9085",
     "name": "Vsuvka nerezová 3/4\"",
     "weight_g": 57.0
+  },
+  {
+    "code": "9086",
+    "name": "Vsuvka nerezová 1\"",
+    "weight_g": 82.0
   },
   {
     "code": "9087",
@@ -12940,14 +13535,74 @@
     "weight_g": 32.0
   },
   {
+    "code": "9094",
+    "name": "Prodloužení nerez 1/2\" x 15 mm",
+    "weight_g": 38.0
+  },
+  {
+    "code": "9095",
+    "name": "Prodloužení nerez 1/2\" x 20 mm",
+    "weight_g": 48.0
+  },
+  {
+    "code": "9096",
+    "name": "Prodloužení nerez 1/2\" x 25 mm",
+    "weight_g": 58.0
+  },
+  {
+    "code": "9097",
+    "name": "Prodloužení nerez 1/2\" x 30 mm",
+    "weight_g": 60.0
+  },
+  {
+    "code": "9098",
+    "name": "Prodloužení nerez 1/2\" x 40 mm",
+    "weight_g": 75.0
+  },
+  {
+    "code": "9099",
+    "name": "Prodloužení nerez 1/2\" x 50 mm",
+    "weight_g": 91.0
+  },
+  {
+    "code": "9100",
+    "name": "Nerezový kulový kohout 1/2\"",
+    "weight_g": 163.0
+  },
+  {
+    "code": "9101",
+    "name": "Nerezový kulový kohout 3/4\"",
+    "weight_g": 235.0
+  },
+  {
     "code": "9102",
     "name": "Nerezový kulový kohout 1\"",
     "weight_g": 340.0
   },
   {
+    "code": "9103",
+    "name": "Cu lisovací přechod 15-3/8\" vnitřní",
+    "weight_g": 53.0
+  },
+  {
+    "code": "9104",
+    "name": "Cu lisovací přechod 15-3/8\" vnější",
+    "weight_g": 33.0
+  },
+  {
+    "code": "9106",
+    "name": "Nůžky na plastové trubky (16-42 mm) NTP-1640, RAFTEC",
+    "weight_g": 384.0
+  },
+  {
     "code": "9116",
     "name": "Redukční ventil 3/4\" s filtrem (horká voda), RCFR02-HS",
     "weight_g": 1100.0
+  },
+  {
+    "code": "9117",
+    "name": "Redukční ventil 1\" s filtrem (horká voda), RCFR03-HS",
+    "weight_g": 1300.0
   },
   {
     "code": "6138",
