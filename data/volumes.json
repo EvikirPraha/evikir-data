@@ -200,6 +200,14 @@
     "volume_cm3": 2197.0
   },
   {
+    "code": 7629,
+    "name": "HT Odbočka reduk. 67,5° 110/50 mm",
+    "height": 13.0,
+    "depth": 19.0,
+    "width": 20.0,
+    "volume_cm3": 4940.0
+  },
+  {
     "code": 5269,
     "name": "Plstěný pás 10 m",
     "height": 8.0,
