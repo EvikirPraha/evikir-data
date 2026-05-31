@@ -2105,14 +2105,29 @@
     "weight_g": 171.0
   },
   {
+    "code": "5194",
+    "name": "Svěrná litinová spojka 3/4\" s vnějším závitem (AK)",
+    "weight_g": 235.0
+  },
+  {
     "code": "5195",
     "name": "Svěrná litinová spojka 1\" s vnějším závitem (AK)",
     "weight_g": 300.0
   },
   {
+    "code": "6012",
+    "name": "Svěrná litinová spojka 3/8\" s vnějším závitem (AK)",
+    "weight_g": 150.0
+  },
+  {
     "code": "5480",
     "name": "Svěrná litinová spojka 5/4\" s vnějším závitem (AK)",
     "weight_g": 498.0
+  },
+  {
+    "code": "5481",
+    "name": "Svěrná litinová spojka 6/4\" s vnějším závitem (AK)",
+    "weight_g": 603.0
   },
   {
     "code": "5197",
@@ -6115,6 +6130,11 @@
     "weight_g": 25.0
   },
   {
+    "code": "7047",
+    "name": "Dřezová nástěnná baterie PALOMA 240/150,s ramínkem \"S\" 180 cm,keramický vršek,rozteč 150 mm",
+    "weight_g": 1137.0
+  },
+  {
     "code": "4381",
     "name": "Dřezová nástěnná baterie PALOMA 240/100,s ramínkem \"S\" 180 cm,keramický vršek,rozteč 100 mm",
     "weight_g": 1153.0
@@ -7648,6 +7668,11 @@
     "code": "6663",
     "name": "CU hrdlo 18 x 3/4\" s převlečnou matkou (5240G)",
     "weight_g": 40.0
+  },
+  {
+    "code": "4732",
+    "name": "Hmoždinka stavební - 14 mm čtyřhranná",
+    "weight_g": 8.0
   },
   {
     "code": "7732",
@@ -10140,6 +10165,11 @@
     "weight_g": 1412.0
   },
   {
+    "code": "8233",
+    "name": "Podkotlový magnetický filtr CALEFFI CLF545900, 3/4\"",
+    "weight_g": 555.0
+  },
+  {
     "code": "8234",
     "name": "Tekuté těsnění konopí IDROFILET 75ml",
     "weight_g": 82.0
@@ -11878,6 +11908,11 @@
     "code": "8653",
     "name": "Termostatická hlavice Black TB3015",
     "weight_g": 113.0
+  },
+  {
+    "code": "8654",
+    "name": "Termostatická hlavice Silver TBW3015",
+    "weight_g": 139.0
   },
   {
     "code": "8655",
