@@ -5,6 +5,11 @@
     "weight_g": 773.0
   },
   {
+    "code": "5418",
+    "name": "Kulový kohout na plyn s pákou 1/2\" FM",
+    "weight_g": 215.0
+  },
+  {
     "code": "7097",
     "name": "Sprchové baterie s příslušenstvím IT-3502",
     "weight_g": 1012.0
@@ -13628,6 +13633,16 @@
     "code": "9106",
     "name": "Nůžky na plastové trubky (16-42 mm) NTP-1640, RAFTEC",
     "weight_g": 384.0
+  },
+  {
+    "code": "9113",
+    "name": "Redukční ventil 3/4\" s filtrem (studená voda), RCFR02-CS",
+    "weight_g": 961.0
+  },
+  {
+    "code": "9114",
+    "name": "Redukční ventil 1\" s filtrem (studená voda), RCFR03-CS",
+    "weight_g": 1149.0
   },
   {
     "code": "9116",
