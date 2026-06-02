@@ -3105,6 +3105,11 @@
     "weight_g": 632.0
   },
   {
+    "code": "6648",
+    "name": "Dřezová stojánková nízkotlaká baterie s otočným ramínkem 220 mm, ST 3047N",
+    "weight_g": 1421.0
+  },
+  {
     "code": "7301",
     "name": "Umyvadlová stojánková nízkotlaká baterie s otočným ramínkem 150 mm,  ST 3043N",
     "weight_g": 1318.0
@@ -3333,6 +3338,16 @@
     "code": "6965",
     "name": "Hadičník mosazný 14 mm x 3/4\" s převlečnou matkou - přímý",
     "weight_g": 41.0
+  },
+  {
+    "code": "6790",
+    "name": "Vanová baterie bez příslušenství 100 mm, TITANIA IRIS chrom 92024/1,0",
+    "weight_g": 1295.0
+  },
+  {
+    "code": "5442",
+    "name": "Dřezová stojánková baterie,TITANIA IRIS chrom 92091,0 výtokové ramínko 200 mm",
+    "weight_g": 995.0
   },
   {
     "code": "4427",
@@ -3613,6 +3628,11 @@
     "code": "4299",
     "name": "Pojišťovací ventil 1/2\" FF- 3 Bar",
     "weight_g": 131.0
+  },
+  {
+    "code": "5443",
+    "name": "Umyvadlová stojánková baterie Titania Iris  chrom 92096,0 NOVASERVIS",
+    "weight_g": 976.0
   },
   {
     "code": "5433",
@@ -4220,6 +4240,11 @@
     "weight_g": 1114.0
   },
   {
+    "code": "5016",
+    "name": "Dřezová nebo umyvadlová nástěnná baterie 150 mm,PICCOLO chrom 2246/150",
+    "weight_g": 1129.0
+  },
+  {
     "code": "5608",
     "name": "Pero protahovací na čištění odpadů, 6 mm x 5 m",
     "weight_g": 678.0
@@ -4278,6 +4303,11 @@
     "code": "6762",
     "name": "Schell COMFORT ventil kombinovaný 1/2\" x 3/8\" x 3/4\"",
     "weight_g": 302.0
+  },
+  {
+    "code": "5441",
+    "name": "Dřezová nebo umyvadlová nástěnná baterie 150 mm,TITANIA IRIS chrom 92076,0",
+    "weight_g": 1246.0
   },
   {
     "code": "4963",
@@ -4655,6 +4685,11 @@
     "weight_g": 152.0
   },
   {
+    "code": "7593",
+    "name": "Vanová baterie s příslušenstvím 150 mm,chrom IT-3501",
+    "weight_g": 1231.0
+  },
+  {
     "code": "7592",
     "name": "AL-PEX lisovací přechod 26 x 1\" vnější",
     "weight_g": 106.0
@@ -4975,9 +5010,19 @@
     "weight_g": 15.0
   },
   {
+    "code": "4397",
+    "name": "Umyvadlová stojánková baterie TOP 1241, chrom",
+    "weight_g": 1314.0
+  },
+  {
     "code": "4442",
     "name": "Teploměr bimetalový příložný 63 mm, 0-120°C",
     "weight_g": 65.0
+  },
+  {
+    "code": "5434",
+    "name": "Dřezová stojánková baterie,TITANIA IRIS chrom 92014,0 ,výtokové ramínko 220 mm",
+    "weight_g": 1384.0
   },
   {
     "code": "4896",
@@ -5038,6 +5083,11 @@
     "code": "4470",
     "name": "Ramínko ploché \"RS\" WLPS - 300 mm",
     "weight_g": 135.0
+  },
+  {
+    "code": "7104",
+    "name": "Dřezová stojánková baterie IT-4091",
+    "weight_g": 1464.0
   },
   {
     "code": "6841",
@@ -5138,6 +5188,11 @@
     "code": "7618",
     "name": "Kulový uzávěr 5/4\" FF voda,páka FIV.8363R007",
     "weight_g": 514.0
+  },
+  {
+    "code": "7484",
+    "name": "Dřezová stojánková baterie,TITANIA NICE chrom 97713,0 ,výtokové ramínko 220 mm",
+    "weight_g": 1937.0
   },
   {
     "code": "4226",
@@ -7405,6 +7460,16 @@
     "weight_g": 80.0
   },
   {
+    "code": "7535",
+    "name": "Pisoárový tlačný ventil Z502",
+    "weight_g": 464.0
+  },
+  {
+    "code": "7706",
+    "name": "Dřezová stojánková baterie Novaservis Ferro s elastickým ramenem,  stříbrošedá, 70710,0S",
+    "weight_g": 1543.0
+  },
+  {
     "code": "4321",
     "name": "HT Trubka odpadní 110 x 2000 mm",
     "weight_g": 100000.0
@@ -7535,6 +7600,11 @@
     "weight_g": 110.0
   },
   {
+    "code": "4405",
+    "name": "Dřezová stojánková baterie GEOS BEST 7900",
+    "weight_g": 900.0
+  },
+  {
     "code": "4751",
     "name": "Metr smvinovací, guma, magnet, š. pásku 16 mm, 3 m",
     "weight_g": 109.0
@@ -7553,6 +7623,11 @@
     "code": "5589",
     "name": "Matice Zn M10",
     "weight_g": 9.0
+  },
+  {
+    "code": "5435",
+    "name": "Dřezová nebo umyvadlová stojánková baterie,TITANIA IRIS chrom 92016,0",
+    "weight_g": 1359.0
   },
   {
     "code": "7531",
@@ -8628,6 +8703,21 @@
     "code": "7872",
     "name": "HT Nástrčné hrdlo 125/110 mm, PLASTBRNO",
     "weight_g": 114.0
+  },
+  {
+    "code": "4965",
+    "name": "Sprchové baterie bez příslušenství 150 mm, PICCOLO 2245/150 chrom",
+    "weight_g": 966.0
+  },
+  {
+    "code": "4628",
+    "name": "Umyvadlová baterie Metalia 55 chrom - 55096,0",
+    "weight_g": 1173.0
+  },
+  {
+    "code": "4629",
+    "name": "Vanová baterie bez příslušenství 100 mm Metalia 55 chrom - 55024/1,0",
+    "weight_g": 1529.0
   },
   {
     "code": "7886",
@@ -12385,6 +12475,36 @@
     "weight_g": 339.0
   },
   {
+    "code": "7471",
+    "name": "Sprchová baterie s příslušenství 100 mm, PALOMA 221 V, chrom",
+    "weight_g": 1637.0
+  },
+  {
+    "code": "8800",
+    "name": "Vanová baterie s příslušenství 100 mm, PALOMA 238 V, chrom",
+    "weight_g": 1785.0
+  },
+  {
+    "code": "4395",
+    "name": "Dřezová stojánková baterie STENO 3047",
+    "weight_g": 859.0
+  },
+  {
+    "code": "6015",
+    "name": "Páková nástěnná baterie pro beztlakové ohřívače vody BP309.CR",
+    "weight_g": 1064.0
+  },
+  {
+    "code": "4815",
+    "name": "Vanová baterie bez příslušenství s ramínkem 300 mm, rozteč 150, GUGLIELMI",
+    "weight_g": 1746.0
+  },
+  {
+    "code": "4661",
+    "name": "Sprchová baterie Novaservis Metalia 55 se sprchovým setem 100 mm chrom 55064.0",
+    "weight_g": 1490.0
+  },
+  {
     "code": "8801",
     "name": "Kalibrátor trubek 32 mm s odhrotovačem pro potrubí",
     "weight_g": 249.0
@@ -12393,6 +12513,11 @@
     "code": "8802",
     "name": "Nůžky na potrubí do 42 mm, MELSCHER",
     "weight_g": 265.0
+  },
+  {
+    "code": "8803",
+    "name": "Vanová baterie bez příslušenství 100 mm, GUGLIELMI chrom GS 5598 CR",
+    "weight_g": 1382.0
   },
   {
     "code": "8804",
@@ -13635,6 +13760,11 @@
     "weight_g": 384.0
   },
   {
+    "code": "9109",
+    "name": "Sponkovačka pro upevnění trubek podlahového topení RTFXP1620, RAFTEC",
+    "weight_g": 3600.0
+  },
+  {
     "code": "9113",
     "name": "Redukční ventil 3/4\" s filtrem (studená voda), RCFR02-CS",
     "weight_g": 961.0
@@ -13658,5 +13788,10 @@
     "code": "6138",
     "name": "Šachtový komplet revizní 300 x 300 mm s poklopem",
     "weight_g": 2872.0
+  },
+  {
+    "code": "9141",
+    "name": "Nástěnné koleno 16 x 1/2\", mosazné",
+    "weight_g": 115.0
   }
 ]
