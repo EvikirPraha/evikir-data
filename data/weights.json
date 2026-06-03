@@ -13195,6 +13195,11 @@
     "weight_g": 2973.0
   },
   {
+    "code": "8958",
+    "name": "Termostatický axiální radiátorový ventil 1/2\" (AXKPT11)",
+    "weight_g": 246.0
+  },
+  {
     "code": "8959",
     "name": "Adaptér 15 x 3/4\" pro připojení měděných trubek na ventil s eurokonusem, (PTS3415)",
     "weight_g": 62.0
@@ -13758,6 +13763,11 @@
     "code": "9106",
     "name": "Nůžky na plastové trubky (16-42 mm) NTP-1640, RAFTEC",
     "weight_g": 384.0
+  },
+  {
+    "code": "9108",
+    "name": "Odvíječ pro trubky RTPEXU600, RAFTEC",
+    "weight_g": 6450.0
   },
   {
     "code": "9109",
