@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>926157028</rating_id>
+  <source>regular</source>
+  <ordered>1780048881</ordered>
+  <unix_timestamp>1780637421</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <pickup_time>5</pickup_time>
+  <pickup_quality>4.5</pickup_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Ochota, rychlost, spolehlivost]]></pros>
+  <order_id>2026002764</order_id>
+ </review>
+ <review>
+  <rating_id>925901958</rating_id>
+  <source>regular</source>
+  <ordered>1779943913</ordered>
+  <unix_timestamp>1780550493</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>4.5</delivery_time>
+  <transport_quality>2</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Spolehlivý prodejce
+Rychlé odeslání
+Rozumné ceny
+Přehledný web
+Sortiment který jinde nemají]]></pros>
+  <summary><![CDATA[Můj oblíbený obchod, rád zde nakupuji, jsou super.
+Mohu jen doporučit.]]></summary>
+  <order_id>2026002733</order_id>
+ </review>
+ <review>
   <rating_id>923732122</rating_id>
   <source>regular</source>
   <ordered>1779093158</ordered>
