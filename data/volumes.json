@@ -96,6 +96,14 @@
     "volume_cm3": 5850.0
   },
   {
+    "code": 4316,
+    "name": "HT Odbočka reduk. 87,5° 110/50 mm",
+    "height": 13.0,
+    "depth": 17.0,
+    "width": 18.0,
+    "volume_cm3": 3978.0
+  },
+  {
     "code": 4618,
     "name": "HT Odbočka 45° 110/110 mm",
     "height": 29.0,
@@ -104,12 +112,28 @@
     "volume_cm3": 9048.0
   },
   {
+    "code": 4133,
+    "name": "HT Odbočka 45° 50/50 mm",
+    "height": 6.5,
+    "depth": 13.0,
+    "width": 16.5,
+    "volume_cm3": 1394.25
+  },
+  {
     "code": 5150,
     "name": "HT Odbočka 67,5° 110/110 mm",
     "height": 21.0,
     "depth": 26.0,
     "width": 13.0,
     "volume_cm3": 7098.0
+  },
+  {
+    "code": 4136,
+    "name": "HT Odbočka 67,5° 50/50 mm",
+    "height": 6.5,
+    "depth": 11.5,
+    "width": 15.5,
+    "volume_cm3": 1158.625
   },
   {
     "code": 4329,
@@ -158,6 +182,14 @@
     "depth": 56.0,
     "width": 9.0,
     "volume_cm3": 4536.0
+  },
+  {
+    "code": 4155,
+    "name": "HT Čistící kus 110 mm",
+    "height": 13.0,
+    "depth": 16.0,
+    "width": 24.0,
+    "volume_cm3": 4992.0
   },
   {
     "code": 5831,
