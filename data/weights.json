@@ -930,6 +930,16 @@
     "weight_g": 53.0
   },
   {
+    "code": "5518",
+    "name": "PPR T-kus 40 mm",
+    "weight_g": 91.0
+  },
+  {
+    "code": "5902",
+    "name": "PPR T-kus 50 mm",
+    "weight_g": 165.0
+  },
+  {
     "code": "4067",
     "name": "PPR Nástěnné koleno 20 x 1/2\"",
     "weight_g": 63.0
@@ -985,6 +995,11 @@
     "weight_g": 42.0
   },
   {
+    "code": "5897",
+    "name": "PPR Nátrubek 50 mm",
+    "weight_g": 74.0
+  },
+  {
     "code": "4245",
     "name": "PPR Nástěnné koleno do sádrokartonu 20 x 1/2\"",
     "weight_g": 120.0
@@ -1015,6 +1030,11 @@
     "weight_g": 28.0
   },
   {
+    "code": "5906",
+    "name": "PPR Záslepka 50 mm",
+    "weight_g": 57.0
+  },
+  {
     "code": "4056",
     "name": "PPR Přechodka 20 x 1/2\" vnější",
     "weight_g": 48.0
@@ -1043,6 +1063,11 @@
     "code": "5524",
     "name": "PPR Přechodka 40 x 5/4\" vnější",
     "weight_g": 228.0
+  },
+  {
+    "code": "5934",
+    "name": "PPR Přechodka 50 x 6/4\" vnější",
+    "weight_g": 276.0
   },
   {
     "code": "4052",
@@ -1148,6 +1173,21 @@
     "code": "5521",
     "name": "PPR T-kus reduk. 40 x 32 x 40 mm",
     "weight_g": 78.0
+  },
+  {
+    "code": "5903",
+    "name": "PPR T-kus reduk. 50 x 25 x 50 mm",
+    "weight_g": 101.0
+  },
+  {
+    "code": "5904",
+    "name": "PPR T-kus reduk. 50 x 32 x 50 mm",
+    "weight_g": 107.0
+  },
+  {
+    "code": "5905",
+    "name": "PPR T-kus reduk. 50 x 40 x 50 mm",
+    "weight_g": 138.0
   },
   {
     "code": "4373",
@@ -1460,6 +1500,11 @@
     "weight_g": 59.0
   },
   {
+    "code": "5901",
+    "name": "PPR Koleno 45° 50 mm",
+    "weight_g": 104.0
+  },
+  {
     "code": "4048",
     "name": "PPR Koleno  45° s trnem 20 mm",
     "weight_g": 12.0
@@ -1508,6 +1553,11 @@
     "code": "5516",
     "name": "PPR Nátrubek redukovaný 40 x 32",
     "weight_g": 38.0
+  },
+  {
+    "code": "5898",
+    "name": "PPR Nátrubek redukovaný 50 x 32",
+    "weight_g": 59.0
   },
   {
     "code": "5899",
@@ -3783,6 +3833,11 @@
     "code": "4549",
     "name": "Radiátorové šroubení 1/2\" x 3/4\" E uzavíratelné s eurokonusem, přímé",
     "weight_g": 169.0
+  },
+  {
+    "code": "4548",
+    "name": "Radiátorové šroubení 1/2\" x 3/4\" E uzavíratelné s eurokonusem, rohové",
+    "weight_g": 166.0
   },
   {
     "code": "4523",
@@ -6160,6 +6215,11 @@
     "weight_g": 17.0
   },
   {
+    "code": "5510",
+    "name": "PPR Redukce vnitřní/vnější 40 x 25",
+    "weight_g": 22.0
+  },
+  {
     "code": "6121",
     "name": "Spojka hadicová 1/2\" (14,5 mm)",
     "weight_g": 17.0
@@ -6585,6 +6645,11 @@
     "weight_g": 580.0
   },
   {
+    "code": "5422",
+    "name": "Vrták příklepový SDS+ 6x110mm",
+    "weight_g": 40.0
+  },
+  {
     "code": "5423",
     "name": "Vrták příklepový SDS+ 6x160mm",
     "weight_g": 48.0
@@ -6605,6 +6670,11 @@
     "weight_g": 60.0
   },
   {
+    "code": "5427",
+    "name": "Vrták příklepový SDS+ 8x210mm",
+    "weight_g": 70.0
+  },
+  {
     "code": "5428",
     "name": "Vrták příklepový SDS+ 10x110mm",
     "weight_g": 54.0
@@ -6620,9 +6690,24 @@
     "weight_g": 89.0
   },
   {
+    "code": "5431",
+    "name": "Vrták příklepový SDS+ 12x110mm",
+    "weight_g": 59.0
+  },
+  {
     "code": "5432",
     "name": "Vrták příklepový SDS+ 12x160mm",
     "weight_g": 81.0
+  },
+  {
+    "code": "5464",
+    "name": "Vrták příklepový SDS+ 12x210mm",
+    "weight_g": 104.0
+  },
+  {
+    "code": "6499",
+    "name": "Vrták příklepový SDS+ 14x160mm",
+    "weight_g": 104.0
   },
   {
     "code": "6500",
@@ -7195,6 +7280,11 @@
     "weight_g": 41.0
   },
   {
+    "code": "5935",
+    "name": "PPR Nátrubek redukovaný 50 x 25",
+    "weight_g": 54.0
+  },
+  {
     "code": "7665",
     "name": "HT Těsnící kroužek 125 mm",
     "weight_g": 28.0
@@ -7315,6 +7405,11 @@
     "weight_g": 51.0
   },
   {
+    "code": "5492",
+    "name": "Hadicový set 4ks, pro 1/2\" hadici",
+    "weight_g": 135.0
+  },
+  {
     "code": "7674",
     "name": "Rozdělovač s průtokoměry 5 okruhy, RZP05S",
     "weight_g": 4992.0
@@ -7353,6 +7448,11 @@
     "code": "6335",
     "name": "HT AKS6 redukce napojení 40/50 x 1/2\"",
     "weight_g": 52.0
+  },
+  {
+    "code": "5501",
+    "name": "Pistole se 6-funkcemi a sadou plast, DY2323",
+    "weight_g": 226.0
   },
   {
     "code": "5500",
@@ -7480,6 +7580,11 @@
     "weight_g": 307.0
   },
   {
+    "code": "7708",
+    "name": "PPR Nátrubek redukovaný 40 x 25",
+    "weight_g": 31.0
+  },
+  {
     "code": "4387",
     "name": "Dřezová stojánková baterie PICCOLO 2247",
     "weight_g": 887.0
@@ -7583,6 +7688,11 @@
     "code": "7714",
     "name": "Ohýbací pružina 20 vnější (2x25x504)",
     "weight_g": 484.0
+  },
+  {
+    "code": "7715",
+    "name": "Náhradní sítko šikmého filtru 5/4\", STENO",
+    "weight_g": 4.0
   },
   {
     "code": "6145",
@@ -8175,6 +8285,11 @@
     "weight_g": 21.0
   },
   {
+    "code": "7273",
+    "name": "SADA plochého těsnění k připojení plynoměrů - 39x31x4 mm pryž NBR - K8/3332",
+    "weight_g": 12.0
+  },
+  {
     "code": "4367",
     "name": "Mosazná jímka k teploměru 1/2\" x 50mm, 8mm/11mm",
     "weight_g": 37.0
@@ -8465,9 +8580,19 @@
     "weight_g": 185.0
   },
   {
+    "code": "4624",
+    "name": "Šroubení topenářské 3/8\" niklované rohové",
+    "weight_g": 98.0
+  },
+  {
     "code": "4625",
     "name": "Šroubení topenářské 1/2\" niklované rohové",
     "weight_g": 156.0
+  },
+  {
+    "code": "4626",
+    "name": "Šroubení topenářské 3/4\" niklované rohové",
+    "weight_g": 245.0
   },
   {
     "code": "7819",
@@ -9003,6 +9128,11 @@
     "code": "7949",
     "name": "PPR Kompenzační (dilatační) smyčka 25 mm",
     "weight_g": 272.0
+  },
+  {
+    "code": "7950",
+    "name": "PPR Kompenzační (dilatační) smyčka 32 mm",
+    "weight_g": 438.0
   },
   {
     "code": "7951",
@@ -9810,6 +9940,11 @@
     "weight_g": 22.0
   },
   {
+    "code": "7448",
+    "name": "PPR Nátrubek 16 mm",
+    "weight_g": 6.0
+  },
+  {
     "code": "8136",
     "name": "Trojcestný mosazný ventil 313134P pro fancoily 3/4\"",
     "weight_g": 244.0
@@ -9943,6 +10078,11 @@
     "code": "8162",
     "name": "Sada 27ks příslušenství pro zavlažovací hadice 16mm DSWA20-SET1",
     "weight_g": 171.0
+  },
+  {
+    "code": "8166",
+    "name": "Víčko k nádrži S60X6 s hadičníkem 1/2\"",
+    "weight_g": 71.0
   },
   {
     "code": "8169",
@@ -10870,6 +11010,16 @@
     "weight_g": 60.0
   },
   {
+    "code": "8387",
+    "name": "Ukončení rozdělovače 1\" s vypouštěním a odvzdušněním, (JKK03)",
+    "weight_g": 438.0
+  },
+  {
+    "code": "8386",
+    "name": "Ukončení rozdělovače 1\" s vypouštěním a odvzdušněním, (KKR03)",
+    "weight_g": 433.0
+  },
+  {
     "code": "8388",
     "name": "Magnetický separátor nečistot 3/4\", FERRO",
     "weight_g": 651.0
@@ -10978,6 +11128,21 @@
     "code": "8411",
     "name": "Bypass RAFTEC 1'' pro blok rozdělovače (BR03)",
     "weight_g": 936.0
+  },
+  {
+    "code": "8412",
+    "name": "Směšovací jednotka (bez čerpadla), RAFTEC (LSG-162H)",
+    "weight_g": 2810.0
+  },
+  {
+    "code": "8413",
+    "name": "Směšovací jednotka (bez čerpadla), RAFTEC (LSG-161H)",
+    "weight_g": 3046.0
+  },
+  {
+    "code": "8414",
+    "name": "Připojovací sada 1'' pro blok rozdělovače, RAFTEC (PCNR03)",
+    "weight_g": 1567.0
   },
   {
     "code": "8415",
@@ -11590,6 +11755,11 @@
     "weight_g": 1148.0
   },
   {
+    "code": "8550",
+    "name": "PPR Ventil kulový plastový 63 mm",
+    "weight_g": 977.0
+  },
+  {
     "code": "8551",
     "name": "PE Koleno mosaz 25 x 3/4\" vnější závit",
     "weight_g": 200.0
@@ -11910,14 +12080,29 @@
     "weight_g": 611.0
   },
   {
+    "code": "8620",
+    "name": "Zpětná klapka 2\" poniklovaná s mosaznou klapkou (ASU06)",
+    "weight_g": 962.0
+  },
+  {
     "code": "8621",
     "name": "Rohový ventil 1/2\" x 1/2\" s keramickou kartuší (VKE6001), RAFTEC",
     "weight_g": 157.0
   },
   {
+    "code": "8622",
+    "name": "Rohový ventil 1/2\" x 3/4\" s keramickou kartuší (VKE6002), RAFTEC",
+    "weight_g": 159.0
+  },
+  {
     "code": "8623",
     "name": "Rohový vřetenový ventil 1/2\" x 1/2\" (VBE0101), RAFTEC",
     "weight_g": 119.0
+  },
+  {
+    "code": "8624",
+    "name": "Rohový vřetenový ventil 1/2\" x 3/4\" (VBE0102), RAFTEC",
+    "weight_g": 142.0
   },
   {
     "code": "8625",
@@ -13763,6 +13948,11 @@
     "code": "9104",
     "name": "Cu lisovací přechod 15-3/8\" vnější",
     "weight_g": 33.0
+  },
+  {
+    "code": "9105",
+    "name": "T-kus 1/2\" x 1/2\" x 1/2\", BRADAS",
+    "weight_g": 41.0
   },
   {
     "code": "9106",
