@@ -248,6 +248,14 @@
     "volume_cm3": 2048.0
   },
   {
+    "code": 8101,
+    "name": "HT Nastavitelné koleno 110 mm",
+    "height": 13.5,
+    "depth": 16.0,
+    "width": 25.0,
+    "volume_cm3": 5400.0
+  },
+  {
     "code": 8105,
     "name": "Hlavice ventilační 110 mm, šedá",
     "height": 20.0,
