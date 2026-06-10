@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>926982144</rating_id>
+  <source>regular</source>
+  <ordered>1780414075</ordered>
+  <unix_timestamp>1780987312</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[Rychlé vyřízení, bezkonkurenční cena.]]></summary>
+  <order_id>2026002840</order_id>
+ </review>
+ <review>
   <rating_id>926157028</rating_id>
   <source>regular</source>
   <ordered>1780048881</ordered>
