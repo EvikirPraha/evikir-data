@@ -288,6 +288,22 @@
     "volume_cm3": 6975.0
   },
   {
+    "code": 8351,
+    "name": "Nerezový vlnovec 1/2\", BALENÍ- 10m",
+    "height": 11.0,
+    "depth": 37.0,
+    "width": 37.0,
+    "volume_cm3": 15059.0
+  },
+  {
+    "code": 8353,
+    "name": "Nerezový vlnovec 3/4\", BALENÍ- 10m",
+    "height": 10.0,
+    "depth": 43.0,
+    "width": 44.0,
+    "volume_cm3": 18920.0
+  },
+  {
     "code": 8931,
     "name": "Hlavice ventilační 110 mm, hnědá",
     "height": 13.0,
