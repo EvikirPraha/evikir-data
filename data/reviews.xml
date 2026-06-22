@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>929443476</rating_id>
+  <source>regular</source>
+  <ordered>1781433325</ordered>
+  <unix_timestamp>1782069294</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[kvalita a cana = výborný poměr ,  velice rychlé a dobré jednání se zákazníky.
+zkušenosti cca 1,5roku a bez výhrad, doporučuji.]]></summary>
+  <order_id>2026003068</order_id>
+ </review>
+ <review>
   <rating_id>928475289</rating_id>
   <source>regular</source>
   <ordered>1781032766</ordered>
