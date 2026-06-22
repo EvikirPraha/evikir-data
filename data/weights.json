@@ -6281,7 +6281,7 @@
   },
   {
     "code": "6870",
-    "name": "Přípojka hadicová 3/4\" (22 mm/1\")",
+    "name": "Přípojka hadicová 3/4\" (20 mm/1\")",
     "weight_g": 21.0
   },
   {
@@ -11381,7 +11381,7 @@
   },
   {
     "code": "8447",
-    "name": "Redukční ventil 3/4\" se samočistícím filtrem (studená voda) RCFR02-C",
+    "name": "Redukční ventil 3/4\" se samočistícím filtrem (studená voda), RCFR02-C",
     "weight_g": 1188.0
   },
   {
@@ -14153,6 +14153,11 @@
     "code": "9141",
     "name": "Nástěnné koleno 16 x 1/2\", mosazné",
     "weight_g": 115.0
+  },
+  {
+    "code": "9145",
+    "name": "AL-PEX lisovací nástěnka 26 x 3/4\"",
+    "weight_g": 156.0
   },
   {
     "code": "9148",
