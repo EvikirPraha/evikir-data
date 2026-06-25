@@ -56,6 +56,22 @@
     "volume_cm3": 4212.0
   },
   {
+    "code": 4113,
+    "name": "HT Koleno 40/87,5°",
+    "height": 5.5,
+    "depth": 10.0,
+    "width": 10.0,
+    "volume_cm3": 550.0
+  },
+  {
+    "code": 4114,
+    "name": "HT Koleno 50/87,5°",
+    "height": 6.5,
+    "depth": 10.0,
+    "width": 11.0,
+    "volume_cm3": 715.0
+  },
+  {
     "code": 4105,
     "name": "HT Koleno 75/45°",
     "height": 9.0,
@@ -88,12 +104,28 @@
     "volume_cm3": 2197.0
   },
   {
+    "code": 4117,
+    "name": "HT Přesuvka 40",
+    "height": 5.5,
+    "depth": 5.5,
+    "width": 10.0,
+    "volume_cm3": 302.5
+  },
+  {
     "code": 4619,
     "name": "HT Odbočka 87,5° 110/110 mm",
     "height": 25.0,
     "depth": 18.0,
     "width": 13.0,
     "volume_cm3": 5850.0
+  },
+  {
+    "code": 4317,
+    "name": "HT Odbočka reduk. 87,5° 110/40 mm",
+    "height": 16.5,
+    "depth": 13.0,
+    "width": 16.0,
+    "volume_cm3": 3432.0
   },
   {
     "code": 4316,
