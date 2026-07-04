@@ -136,6 +136,14 @@
     "volume_cm3": 3978.0
   },
   {
+    "code": 4870,
+    "name": "HT Odbočka reduk. 87,5° 110/75 mm",
+    "height": 13.0,
+    "depth": 18.0,
+    "width": 20.0,
+    "volume_cm3": 4680.0
+  },
+  {
     "code": 4618,
     "name": "HT Odbočka 45° 110/110 mm",
     "height": 29.0,
@@ -150,6 +158,14 @@
     "depth": 13.0,
     "width": 16.5,
     "volume_cm3": 1394.25
+  },
+  {
+    "code": 4144,
+    "name": "HT Odbočka reduk. 45° 75/50 mm",
+    "height": 9.0,
+    "depth": 16.0,
+    "width": 18.0,
+    "volume_cm3": 2592.0
   },
   {
     "code": 5150,
@@ -232,6 +248,14 @@
     "volume_cm3": 8788.0
   },
   {
+    "code": 4620,
+    "name": "HT Dvojodbočka 50/110/50 mm 87°",
+    "height": 13.0,
+    "depth": 22.0,
+    "width": 17.5,
+    "volume_cm3": 5005.0
+  },
+  {
     "code": 7189,
     "name": "HT Dvojodbočka 110/110/110 mm 45°",
     "height": 33.0,
@@ -246,6 +270,22 @@
     "depth": 25.0,
     "width": 13.0,
     "volume_cm3": 9425.0
+  },
+  {
+    "code": 7240,
+    "name": "HT Redukce excentr. dlouhá 110/75 mm",
+    "height": 11.0,
+    "depth": 11.0,
+    "width": 14.0,
+    "volume_cm3": 1694.0
+  },
+  {
+    "code": 4123,
+    "name": "HT Redukce excentr. dlouhá 75/50 mm",
+    "height": 8.0,
+    "depth": 8.0,
+    "width": 12.0,
+    "volume_cm3": 768.0
   },
   {
     "code": 5237,
