@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>932477501</rating_id>
+  <source>regular</source>
+  <ordered>1782654971</ordered>
+  <unix_timestamp>1783243929</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[Spolehlivost]]></summary>
+  <order_id>2026003318</order_id>
+ </review>
+ <review>
   <rating_id>929531919</rating_id>
   <source>regular</source>
   <ordered>1781459598</ordered>
