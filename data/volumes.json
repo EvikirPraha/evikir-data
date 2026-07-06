@@ -320,6 +320,14 @@
     "volume_cm3": 2048.0
   },
   {
+    "code": 7366,
+    "name": "Konzole pozinkovaná (1,25mm) 27/18 x 500 mm + plastová krytka",
+    "height": 3.0,
+    "depth": 55.0,
+    "width": 11.0,
+    "volume_cm3": 1815.0
+  },
+  {
     "code": 8101,
     "name": "HT Nastavitelné koleno 110 mm",
     "height": 13.5,
