@@ -10540,6 +10540,11 @@
     "weight_g": 63.0
   },
   {
+    "code": "8244",
+    "name": "Stahovací pásky 370x4,8mm, 25ks, černé",
+    "weight_g": 65.0
+  },
+  {
     "code": "8247",
     "name": "Pojišťovací ventil 1/2\" FF- 10 Bar",
     "weight_g": 137.0
@@ -10553,6 +10558,11 @@
     "code": "8251",
     "name": "Nerez. připojovací trubka 1/2\", 20cm",
     "weight_g": 50.0
+  },
+  {
+    "code": "8252",
+    "name": "Nerez. připojovací trubka 1/2\", 30cm",
+    "weight_g": 61.0
   },
   {
     "code": "8253",
