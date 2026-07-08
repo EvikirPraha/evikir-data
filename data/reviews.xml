@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>933008263</rating_id>
+  <source>regular</source>
+  <ordered>1782854645</ordered>
+  <unix_timestamp>1783430123</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Široký výběr sortimentu
+Rychlost dodání 
+Přehlednost e-shopu]]></pros>
+  <summary><![CDATA[Jako laik jsem si potřeboval vybrat v klidu a ideálně na jednom místě (jeden balík - jedno poštovné). Tady jsem našel vše co jsem potřeboval a měl obratem doma.]]></summary>
+  <order_id>2026003361</order_id>
+ </review>
+ <review>
   <rating_id>932477501</rating_id>
   <source>regular</source>
   <ordered>1782654971</ordered>
