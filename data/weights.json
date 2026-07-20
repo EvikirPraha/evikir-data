@@ -13000,6 +13000,11 @@
     "weight_g": 276.0
   },
   {
+    "code": "8835",
+    "name": "Nerez. připojovací trubka 1\", 130cm",
+    "weight_g": 356.0
+  },
+  {
     "code": "8838",
     "name": "Kulový ventil 1/2\" FF s pákou, FERRO (KFC1)",
     "weight_g": 160.0
@@ -14153,6 +14158,11 @@
     "code": "9109",
     "name": "Sponkovačka pro upevnění trubek podlahového topení RTFXP1620, RAFTEC",
     "weight_g": 3600.0
+  },
+  {
+    "code": "9112",
+    "name": "Redukční ventil 1/2\" s filtrem (studená voda), RCFR01-CS",
+    "weight_g": 871.0
   },
   {
     "code": "9113",
