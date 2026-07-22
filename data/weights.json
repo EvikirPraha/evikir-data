@@ -6955,6 +6955,11 @@
     "weight_g": 4.0
   },
   {
+    "code": "6689",
+    "name": "Natloukací hmoždinka 6x80mm",
+    "weight_g": 7.0
+  },
+  {
     "code": "4735",
     "name": "Natloukací hmoždinka 8x60mm",
     "weight_g": 9.0
@@ -14150,6 +14155,11 @@
     "weight_g": 384.0
   },
   {
+    "code": "9107",
+    "name": "Ruční testovací pumpa RTP50, RAFTEC",
+    "weight_g": 7640.0
+  },
+  {
     "code": "9108",
     "name": "Odvíječ pro trubky RTPEXU600, RAFTEC",
     "weight_g": 6450.0
@@ -14173,6 +14183,11 @@
     "code": "9114",
     "name": "Redukční ventil 1\" s filtrem (studená voda), RCFR03-CS",
     "weight_g": 1149.0
+  },
+  {
+    "code": "9115",
+    "name": "Redukční ventil 1/2\" s filtrem (horká voda), RCFR01-HS",
+    "weight_g": 1007.0
   },
   {
     "code": "9116",
@@ -14238,6 +14253,11 @@
     "code": "9154",
     "name": "Koleno redukované mosazné 1/2\"x3/8\"",
     "weight_g": 44.0
+  },
+  {
+    "code": "9164",
+    "name": "Automatický dopouštěcí ventil 1/2\" bez manometru",
+    "weight_g": 480.0
   },
   {
     "code": "9165",
