@@ -4355,6 +4355,11 @@
     "weight_g": 503.0
   },
   {
+    "code": "5840",
+    "name": "KG Redukce 160/110 mm",
+    "weight_g": 465.0
+  },
+  {
     "code": "5354",
     "name": "KG Přesuvka 110 mm",
     "weight_g": 272.0
@@ -13596,7 +13601,7 @@
   },
   {
     "code": "8960",
-    "name": "Zpětná klapka 1\" FM s mosaznou klapkou, (NRVM03)",
+    "name": "Zpětná klapka 1\" FM s mosaznou klapkou, RAFTEC (NRVM03)",
     "weight_g": 416.0
   },
   {
