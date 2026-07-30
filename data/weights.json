@@ -13996,7 +13996,7 @@
   },
   {
     "code": "9069",
-    "name": "Zátka mosazná 1\" s očkem",
+    "name": "Zátka mosazná 1\" s očkem, RAFTEC",
     "weight_g": 81.0
   },
   {
@@ -14188,6 +14188,11 @@
     "code": "9109",
     "name": "Sponkovačka pro upevnění trubek podlahového topení RTFXP1620, RAFTEC",
     "weight_g": 3600.0
+  },
+  {
+    "code": "9111",
+    "name": "Vícevrstvá trubka 32 x 3mm (PE-RT/AL/PE-RT)",
+    "weight_g": 335.0
   },
   {
     "code": "9112",
