@@ -5266,7 +5266,7 @@
   },
   {
     "code": "7613",
-    "name": "Skupina pro bezpečnost kotlů 1\", RBSG033",
+    "name": "Skupina pro bezpečnost kotlů 1\", RAFTEC (RBSG033)",
     "weight_g": 705.0
   },
   {
@@ -6673,6 +6673,11 @@
     "code": "5260",
     "name": "Stahovací pásky 150x2,5mm, 100ks, bílé",
     "weight_g": 47.0
+  },
+  {
+    "code": "5261",
+    "name": "Stahovací pásky 200x3,6mm, 100ks, bílé",
+    "weight_g": 93.0
   },
   {
     "code": "5264",
@@ -11066,37 +11071,37 @@
   },
   {
     "code": "8369",
-    "name": "Termostatická hlavice TW3015 White",
+    "name": "Termostatická hlavice White, RAFTEC (TW3015)",
     "weight_g": 113.0
   },
   {
     "code": "8370",
-    "name": "Sada termostatická rohová KTU11",
+    "name": "Sada termostatická rohová, RAFTEC (KTU11)",
     "weight_g": 574.0
   },
   {
     "code": "8371",
-    "name": "Sada termostatická přímá KNT11",
+    "name": "Sada termostatická přímá, RAFTEC (KNT11)",
     "weight_g": 604.0
   },
   {
     "code": "8372",
-    "name": "Termostatický ventil 1/2\" s regulací, rohový (KPT11)",
+    "name": "Termostatický ventil 1/2\" s regulací, rohový, RAFTEC (KPT11)",
     "weight_g": 210.0
   },
   {
     "code": "8373",
-    "name": "Radiátorové šroubení 1/2\" uzavíratelné, rohové (NRK11)",
+    "name": "Radiátorové šroubení 1/2\" uzavíratelné, rohové, RAFTEC (NRK11)",
     "weight_g": 210.0
   },
   {
     "code": "8374",
-    "name": "Termostatický ventil 1/2\" s regulací, přímý (PKPT11)",
+    "name": "Termostatický ventil 1/2\" s regulací, přímý, RAFTEC (PKPT11)",
     "weight_g": 219.0
   },
   {
     "code": "8375",
-    "name": "Radiátorové šroubení 1/2\" uzavíratelné, přímé (PNRK11)",
+    "name": "Radiátorové šroubení 1/2\" uzavíratelné, přímé, RAFTEC (PNRK11)",
     "weight_g": 222.0
   },
   {
@@ -11151,12 +11156,12 @@
   },
   {
     "code": "8387",
-    "name": "Ukončení rozdělovače 1\" s vypouštěním a odvzdušněním, (JKK03)",
+    "name": "Ukončení rozdělovače 1\" s vypouštěním a odvzdušněním, RAFTEC (JKK03)",
     "weight_g": 438.0
   },
   {
     "code": "8386",
-    "name": "Ukončení rozdělovače 1\" s vypouštěním a odvzdušněním, (KKR03)",
+    "name": "Ukončení rozdělovače 1\" s vypouštěním a odvzdušněním, RAFTEC (KKR03)",
     "weight_g": 433.0
   },
   {
@@ -11271,7 +11276,7 @@
   },
   {
     "code": "8411",
-    "name": "Bypass RAFTEC 1'' pro blok rozdělovače (BR03)",
+    "name": "Bypass RAFTEC 1'' pro blok rozdělovače, RAFTEC (BR03)",
     "weight_g": 936.0
   },
   {
@@ -11291,7 +11296,7 @@
   },
   {
     "code": "8415",
-    "name": "Směšovací jednotka RAFTEC 1'' (SUR03)",
+    "name": "Směšovací jednotka 1'', RAFTEC (SUR03)",
     "weight_g": 2863.0
   },
   {
@@ -11356,82 +11361,82 @@
   },
   {
     "code": "8435",
-    "name": "Reduktor tlaku RD01-1/2\"",
+    "name": "Reduktor tlaku 1/2\", RAFTEC (RD01)",
     "weight_g": 575.0
   },
   {
     "code": "8436",
-    "name": "Reduktor tlaku RD02-3/4\"",
+    "name": "Reduktor tlaku 3/4\", RAFTEC (RD02)",
     "weight_g": 582.0
   },
   {
     "code": "8437",
-    "name": "Samočistící filtr 1/2\" (studená voda) RMCF01",
+    "name": "Samočistící filtr 1/2\" (studená voda), RAFTEC (RMCF01)",
     "weight_g": 759.0
   },
   {
     "code": "8438",
-    "name": "Samočistící filtr 3/4\" (studená voda) RMCF02",
+    "name": "Samočistící filtr 3/4\" (studená voda), RAFTEC (RMCF02)",
     "weight_g": 938.0
   },
   {
     "code": "8439",
-    "name": "Samočistící filtr 1/2\" (horká voda) RMHF01",
+    "name": "Samočistící filtr 1/2\" (horká voda), RAFTEC (RMHF01)",
     "weight_g": 975.0
   },
   {
     "code": "8440",
-    "name": "Samočistící filtr 3/4\" (horká voda) RMHF02",
+    "name": "Samočistící filtr 3/4\" (horká voda), RAFTEC (RMHF02)",
     "weight_g": 1178.0
   },
   {
     "code": "8441",
-    "name": "Redukční ventil 1/2\" se samočistícím filtrem (horká voda) RCFR01-H",
+    "name": "Redukční ventil 1/2\" se samočistícím filtrem (horká voda), RAFTEC (RCFR01-H)",
     "weight_g": 1412.0
   },
   {
     "code": "8442",
-    "name": "Redukční ventil 3/4\" se samočistícím filtrem (horká voda) RCFR02-H",
+    "name": "Redukční ventil 3/4\" se samočistícím filtrem (horká voda), RAFTEC (RCFR02-H)",
     "weight_g": 1510.0
   },
   {
     "code": "8443",
-    "name": "Pojišťovací ventil 1/2\" FF- 2 Bar (RPR012-F)",
+    "name": "Pojišťovací ventil 1/2\" FF- 2 Bar, RAFTEC (RPR012-F)",
     "weight_g": 121.0
   },
   {
     "code": "8444",
-    "name": "Pojišťovací ventil 1/2\" FF- 3 Bar (RPR013-F)",
+    "name": "Pojišťovací ventil 1/2\" FF- 3 Bar, RAFTEC (RPR013-F)",
     "weight_g": 117.0
   },
   {
     "code": "8445",
-    "name": "Pojišťovací ventil 1/2\" FF- 6 Bar (RPR016-F)",
+    "name": "Pojišťovací ventil 1/2\" FF- 6 Bar, RAFTEC (RPR016-F)",
     "weight_g": 116.0
   },
   {
     "code": "8446",
-    "name": "Redukční ventil 1/2\" se samočistícím filtrem (studená voda) RCFR01-C",
+    "name": "Redukční ventil 1/2\" se samočistícím filtrem (studená voda), RAFTEC (RCFR01-C)",
     "weight_g": 1086.0
   },
   {
     "code": "8447",
-    "name": "Redukční ventil 3/4\" se samočistícím filtrem (studená voda), RCFR02-C",
+    "name": "Redukční ventil 3/4\" se samočistícím filtrem (studená voda), RAFTEC (RCFR02-C)",
     "weight_g": 1188.0
   },
   {
     "code": "8448",
-    "name": "Pojišťovací ventil 1/2\" FM- 2 Bar (RPR012-M)",
+    "name": "Pojišťovací ventil 1/2\" FM- 2 Bar, RAFTEC (RPR012-M)",
     "weight_g": 134.0
   },
   {
     "code": "8449",
-    "name": "Pojišťovací ventil 1/2\" FM- 3 Bar (RPR013-M)",
+    "name": "Pojišťovací ventil 1/2\" FM- 3 Bar, RAFTEC (RPR013-M)",
     "weight_g": 134.0
   },
   {
     "code": "8450",
-    "name": "Pojišťovací ventil 1/2\" FM- 6 Bar (RPR016-M)",
+    "name": "Pojišťovací ventil 1/2\" FM- 6 Bar, RAFTEC (RPR016-M)",
     "weight_g": 135.0
   },
   {
@@ -11441,12 +11446,12 @@
   },
   {
     "code": "8452",
-    "name": "Nahradní nerezové sítko 1/2\" pro samočisticí mechanický filtr,  (RFE01) RAFTEC",
+    "name": "Nahradní nerezové sítko 1/2\" pro samočisticí mechanický filtr, RAFTEC (RFE01)",
     "weight_g": 10.0
   },
   {
     "code": "8453",
-    "name": "Nahradní nerezové sítko 3/4\" pro samočisticí mechanický filtr, (RFE02) RAFTEC",
+    "name": "Nahradní nerezové sítko 3/4\" pro samočisticí mechanický filtr, RAFTEC (RFE02)",
     "weight_g": 10.0
   },
   {
@@ -11631,17 +11636,17 @@
   },
   {
     "code": "8491",
-    "name": "Kulový kohout se šroubením 1/2\" (DRBS1)",
+    "name": "Kulový kohout se šroubením 1/2\", RAFTEC (DRBS1)",
     "weight_g": 230.0
   },
   {
     "code": "8492",
-    "name": "Kulový kohout se šroubením 3/4\" (DRBS2)",
+    "name": "Kulový kohout se šroubením 3/4\", RAFTEC (DRBS2)",
     "weight_g": 335.0
   },
   {
     "code": "8493",
-    "name": "Kulový kohout se šroubením 1\" (DRBS3)",
+    "name": "Kulový kohout se šroubením 1\", RAFTEC (DRBS3)",
     "weight_g": 565.0
   },
   {
@@ -11661,17 +11666,17 @@
   },
   {
     "code": "8497",
-    "name": "Rohový kulový kohout 1/2\" se šroubením, motýl (DRBS1-U)",
+    "name": "Rohový kulový kohout 1/2\" se šroubením, motýl, RAFTEC (DRBS1-U)",
     "weight_g": 246.0
   },
   {
     "code": "8498",
-    "name": "Rohový kulový kohout 3/4\" se šroubením, motýl (DRBS2-U)",
+    "name": "Rohový kulový kohout 3/4\" se šroubením, motýl, RAFTEC (DRBS2-U)",
     "weight_g": 371.0
   },
   {
     "code": "8499",
-    "name": "Rohový kulový kohout 1\" se šroubením, motýl (DRBS3-U)",
+    "name": "Rohový kulový kohout 1\" se šroubením, motýl, RAFTEC (DRBS3-U)",
     "weight_g": 659.0
   },
   {
@@ -11891,32 +11896,32 @@
   },
   {
     "code": "8543",
-    "name": "Sanitární rozdělovač 1\"x3/4\", 2-CESTNÝ (KV03022)",
+    "name": "Sanitární rozdělovač 1\"x3/4\", 2-CESTNÝ, RAFTEC (KV03022)",
     "weight_g": 530.0
   },
   {
     "code": "8544",
-    "name": "Sanitární rozdělovač 1\"x3/4\", 3-CESTNÝ (KV03023)",
+    "name": "Sanitární rozdělovač 1\"x3/4\", 3-CESTNÝ, RAFTEC (KV03023)",
     "weight_g": 782.0
   },
   {
     "code": "8545",
-    "name": "Sanitární rozdělovač 1\"x3/4\", 4-CESTNÝ (KV03024)",
+    "name": "Sanitární rozdělovač 1\"x3/4\", 4-CESTNÝ, RAFTEC (KV03024)",
     "weight_g": 1020.0
   },
   {
     "code": "8546",
-    "name": "Sanitární rozdělovač 3/4\"x1/2\"x16, 2-CESTNÝ (KK02012)",
+    "name": "Sanitární rozdělovač 3/4\"x1/2\"x16, 2-CESTNÝ, RAFTEC (KK02012)",
     "weight_g": 432.0
   },
   {
     "code": "8547",
-    "name": "Sanitární rozdělovač 3/4\"x1/2\"x16, 3-CESTNÝ (KK02013)",
+    "name": "Sanitární rozdělovač 3/4\"x1/2\"x16, 3-CESTNÝ, RAFTEC (KK02013)",
     "weight_g": 616.0
   },
   {
     "code": "8548",
-    "name": "Termost.směšovací ventil 3/4\" (RTSM02)",
+    "name": "Termost.směšovací ventil 3/4\", RAFTEC (RTSM02)",
     "weight_g": 1148.0
   },
   {
@@ -11966,42 +11971,42 @@
   },
   {
     "code": "8558",
-    "name": "Kulový ventil GOLD 1/2\" FM (GRDV01)",
+    "name": "Kulový ventil GOLD 1/2\" FM, RAFTEC (GRDV01)",
     "weight_g": 202.0
   },
   {
     "code": "8559",
-    "name": "Kulový ventil GOLD 3/4\" FM (GRDV02)",
+    "name": "Kulový ventil GOLD 3/4\" FM, RAFTEC (GRDV02)",
     "weight_g": 292.0
   },
   {
     "code": "8560",
-    "name": "Kulový ventil GOLD 1\" FM (GRDV03)",
+    "name": "Kulový ventil GOLD 1\" FM, RAFTEC (GRDV03)",
     "weight_g": 473.0
   },
   {
     "code": "8561",
-    "name": "Kulový ventil GOLD 1/2\" FF (GRDV011)",
+    "name": "Kulový ventil GOLD 1/2\" FF, RAFTEC (GRDV011)",
     "weight_g": 197.0
   },
   {
     "code": "8562",
-    "name": "Kulový ventil GOLD 3/4\" FF (GRDV021)",
+    "name": "Kulový ventil GOLD 3/4\" FF, RAFTEC (GRDV021)",
     "weight_g": 291.0
   },
   {
     "code": "8563",
-    "name": "Kulový ventil GOLD 1\" FF (GRDV031)",
+    "name": "Kulový ventil GOLD 1\" FF, RAFTEC (GRDV031)",
     "weight_g": 471.0
   },
   {
     "code": "8564",
-    "name": "Kulový kohout se šroubením 1/2\" GOLD (GRDS01)",
+    "name": "Kulový kohout se šroubením 1/2\" GOLD, RAFTEC (GRDS01)",
     "weight_g": 297.0
   },
   {
     "code": "8565",
-    "name": "Kulový kohout se šroubením 3/4\" GOLD (GRDS02)",
+    "name": "Kulový kohout se šroubením 3/4\" GOLD, RAFTEC (GRDS02)",
     "weight_g": 404.0
   },
   {
@@ -12011,47 +12016,47 @@
   },
   {
     "code": "8567",
-    "name": "Rohový kulový kohout 1/2\" se šroubením, motýl GOLD (GRDA01)",
+    "name": "Rohový kulový kohout 1/2\" se šroubením, motýl GOLD, RAFTEC (GRDA01)",
     "weight_g": 301.0
   },
   {
     "code": "8568",
-    "name": "Rohový kulový kohout 3/4\" se šroubením, motýl GOLD (GRDA02)",
+    "name": "Rohový kulový kohout 3/4\" se šroubením, motýl GOLD, RAFTEC (GRDA02)",
     "weight_g": 440.0
   },
   {
     "code": "8569",
-    "name": "Rohový kulový kohout 1\" se šroubením, motýl GOLD (GRDA03)",
+    "name": "Rohový kulový kohout 1\" se šroubením, motýl GOLD, RAFTEC (GRDA03)",
     "weight_g": 783.0
   },
   {
     "code": "8570",
-    "name": "Kulový kohout se šroubením 1/2\" WHITE (WRB-1)",
+    "name": "Kulový kohout se šroubením 1/2\" WHITE, RAFTEC (WRB-1)",
     "weight_g": 236.0
   },
   {
     "code": "8571",
-    "name": "Kulový kohout se šroubením 3/4\" WHITE (WRB-2)",
+    "name": "Kulový kohout se šroubením 3/4\" WHITE, RAFTEC (WRB-2)",
     "weight_g": 352.0
   },
   {
     "code": "8572",
-    "name": "Kulový kohout se šroubením 1\" WHITE (WRB-3)",
+    "name": "Kulový kohout se šroubením 1\" WHITE, RAFTEC (WRB-3)",
     "weight_g": 590.0
   },
   {
     "code": "8573",
-    "name": "Rohový kulový kohout 1/2\" se šroubením WHITE (WRBS-1)",
+    "name": "Rohový kulový kohout 1/2\" se šroubením WHITE, RAFTEC (WRBS-1)",
     "weight_g": 249.0
   },
   {
     "code": "8574",
-    "name": "Rohový kulový kohout 3/4\" se šroubením WHITE (WRBS-2)",
+    "name": "Rohový kulový kohout 3/4\" se šroubením WHITE, RAFTEC (WRBS-2)",
     "weight_g": 381.0
   },
   {
     "code": "8575",
-    "name": "Rohový kulový kohout 1\" se šroubením WHITE (WRBS-3)",
+    "name": "Rohový kulový kohout 1\" se šroubením WHITE, RAFTEC (WRBS-3)",
     "weight_g": 615.0
   },
   {
@@ -12161,7 +12166,7 @@
   },
   {
     "code": "8600",
-    "name": "Zpětná klapka 1\" s mosaznou klapkou, dlouhá (NRVF03)",
+    "name": "Zpětná klapka 1\" s mosaznou klapkou, dlouhá, RAFTEC (NRVF03)",
     "weight_g": 418.0
   },
   {
@@ -12181,32 +12186,32 @@
   },
   {
     "code": "8604",
-    "name": "Automatický odvzduš. ventil 1/2\" chrom (AWH01), RAFTEC",
+    "name": "Automatický odvzduš. ventil 1/2\" chrom, RAFTEC (AWH01)",
     "weight_g": 144.0
   },
   {
     "code": "8605",
-    "name": "Kombinovaný ventil 1/2\" x 3/4\" x 1/2\" (KSM010201)",
+    "name": "Kombinovaný ventil 1/2\" x 3/4\" x 1/2\", RAFTEC (KSM010201)",
     "weight_g": 138.0
   },
   {
     "code": "8606",
-    "name": "Filtr závitový 1/2\" poniklovaný s nerezovým sítkem (FKU01)",
+    "name": "Filtr závitový 1/2\" poniklovaný s nerezovým sítkem, RAFTEC (FKU01)",
     "weight_g": 147.0
   },
   {
     "code": "8607",
-    "name": "Filtr závitový 3/4\" poniklovaný s nerezovým sítkem (FKU02)",
+    "name": "Filtr závitový 3/4\" poniklovaný s nerezovým sítkem, RAFTEC (FKU02)",
     "weight_g": 224.0
   },
   {
     "code": "8608",
-    "name": "Filtr závitový 1\" poniklovaný s nerezovým sítkem (FKU03)",
+    "name": "Filtr závitový 1\" poniklovaný s nerezovým sítkem, RAFTEC (FKU03)",
     "weight_g": 348.0
   },
   {
     "code": "8609",
-    "name": "Filtr závitový 5/4\" poniklovaný s nerezovým sítkem (FKU04)",
+    "name": "Filtr závitový 5/4\" poniklovaný s nerezovým sítkem, RAFTEC (FKU04)",
     "weight_g": 584.0
   },
   {
@@ -12226,62 +12231,62 @@
   },
   {
     "code": "8615",
-    "name": "Zpětná klapka 1/2\" poniklovaná s mosaznou klapkou (ASU01)",
+    "name": "Zpětná klapka 1/2\" poniklovaná s mosaznou klapkou, RAFTEC (ASU01)",
     "weight_g": 128.0
   },
   {
     "code": "8616",
-    "name": "Zpětná klapka 3/4\" poniklovaná s mosaznou klapkou (ASU02)",
+    "name": "Zpětná klapka 3/4\" poniklovaná s mosaznou klapkou, RAFTEC (ASU02)",
     "weight_g": 132.0
   },
   {
     "code": "8617",
-    "name": "Zpětná klapka 1\" poniklovaná s mosaznou klapkou (ASU03)",
+    "name": "Zpětná klapka 1\" poniklovaná s mosaznou klapkou, RAFTEC (ASU03)",
     "weight_g": 266.0
   },
   {
     "code": "8618",
-    "name": "Zpětná klapka 5/4\" poniklovaná s mosaznou klapkou (ASU04)",
+    "name": "Zpětná klapka 5/4\" poniklovaná s mosaznou klapkou, RAFTEC (ASU04)",
     "weight_g": 377.0
   },
   {
     "code": "8619",
-    "name": "Zpětná klapka 6/4\" poniklovaná s mosaznou klapkou (ASU05)",
+    "name": "Zpětná klapka 6/4\" poniklovaná s mosaznou klapkou, RAFTEC (ASU05)",
     "weight_g": 611.0
   },
   {
     "code": "8620",
-    "name": "Zpětná klapka 2\" poniklovaná s mosaznou klapkou (ASU06)",
+    "name": "Zpětná klapka 2\" poniklovaná s mosaznou klapkou, RAFTEC (ASU06)",
     "weight_g": 962.0
   },
   {
     "code": "8621",
-    "name": "Rohový ventil 1/2\" x 1/2\" s keramickou kartuší (VKE6001), RAFTEC",
+    "name": "Rohový ventil 1/2\" x 1/2\" s keramickou kartuší, RAFTEC (VKE6001)",
     "weight_g": 157.0
   },
   {
     "code": "8622",
-    "name": "Rohový ventil 1/2\" x 3/4\" s keramickou kartuší (VKE6002), RAFTEC",
+    "name": "Rohový ventil 1/2\" x 3/4\" s keramickou kartuší, RAFTEC (VKE6002)",
     "weight_g": 159.0
   },
   {
     "code": "8623",
-    "name": "Rohový vřetenový ventil 1/2\" x 1/2\" (VBE0101), RAFTEC",
+    "name": "Rohový vřetenový ventil 1/2\" x 1/2\", RAFTEC (VBE0101)",
     "weight_g": 119.0
   },
   {
     "code": "8624",
-    "name": "Rohový vřetenový ventil 1/2\" x 3/4\" (VBE0102), RAFTEC",
+    "name": "Rohový vřetenový ventil 1/2\" x 3/4\", RAFTEC (VBE0102)",
     "weight_g": 142.0
   },
   {
     "code": "8625",
-    "name": "Rohový kulový ventil 1/2\" x 1/2\" (KDH0101), RAFTEC",
+    "name": "Rohový kulový ventil 1/2\" x 1/2\", RAFTEC (KDH0101)",
     "weight_g": 128.0
   },
   {
     "code": "8626",
-    "name": "Rohový kulový ventil 1/2\" x 3/4\" (KDH0102), RAFTEC",
+    "name": "Rohový kulový ventil 1/2\" x 3/4\", RAFTEC (KDH0102)",
     "weight_g": 130.0
   },
   {
@@ -12296,7 +12301,7 @@
   },
   {
     "code": "8629",
-    "name": "Sanitární rozdělovač 3/4\"x1/2\"x16, 4-CESTNÝ (KK02014)",
+    "name": "Sanitární rozdělovač 3/4\"x1/2\"x16, 4-CESTNÝ, RAFTEC (KK02014)",
     "weight_g": 791.0
   },
   {
@@ -12306,12 +12311,12 @@
   },
   {
     "code": "8642",
-    "name": "Rohový kulový kohout 1/2\" x 1/2\" s převlečnou matkou (DRBZ1)",
+    "name": "Rohový kulový kohout 1/2\" x 1/2\" s převlečnou matkou, RAFTEC (DRBZ1)",
     "weight_g": 217.0
   },
   {
     "code": "8643",
-    "name": "Rohový kulový kohout 3/4\" x 3/4\" s převlečnou matkou (DRBZ2)",
+    "name": "Rohový kulový kohout 3/4\" x 3/4\" s převlečnou matkou, RAFTEC (DRBZ2)",
     "weight_g": 315.0
   },
   {
@@ -12326,12 +12331,12 @@
   },
   {
     "code": "8646",
-    "name": "Rohový kulový kohout 1/2\" x 1/2\" s převlečnou matkou (DRBM1)",
+    "name": "Rohový kulový kohout 1/2\" x 1/2\" s převlečnou matkou, RAFTEC (DRBM1)",
     "weight_g": 223.0
   },
   {
     "code": "8647",
-    "name": "Rohový kulový kohout 3/4\" x 3/4\" s převlečnou matkou (DRBM2)",
+    "name": "Rohový kulový kohout 3/4\" x 3/4\" s převlečnou matkou, RAFTEC (DRBM2)",
     "weight_g": 322.0
   },
   {
@@ -12346,7 +12351,7 @@
   },
   {
     "code": "8650",
-    "name": "Automatický odvzduš. ventil 1/2\" (AV01), RAFTEC",
+    "name": "Automatický odvzduš. ventil 1/2\", RAFTEC (AV01)",
     "weight_g": 149.0
   },
   {
@@ -12361,22 +12366,22 @@
   },
   {
     "code": "8653",
-    "name": "Termostatická hlavice Black TB3015",
+    "name": "Termostatická hlavice Black, RAFTEC (TB3015)",
     "weight_g": 113.0
   },
   {
     "code": "8654",
-    "name": "Termostatická hlavice Silver TBW3015",
+    "name": "Termostatická hlavice Silver, RAFTEC (TBW3015)",
     "weight_g": 139.0
   },
   {
     "code": "8655",
-    "name": "NC Servopohon RSNC-30",
+    "name": "NC Servopohon, RAFTEC (RSNC-30)",
     "weight_g": 150.0
   },
   {
     "code": "8657",
-    "name": "Programovatelný termostat R607B (Wi-Fi)",
+    "name": "Programovatelný termostat R607B (Wi-Fi), RAFTEC",
     "weight_g": 272.0
   },
   {
@@ -12406,17 +12411,17 @@
   },
   {
     "code": "8664",
-    "name": "Sada přímých kulových kohoutů s teplotním čidlem 1\" (RKMSV03)",
+    "name": "Sada přímých kulových kohoutů s teplotním čidlem 1\", RAFTEC (RKMSV03)",
     "weight_g": 1031.0
   },
   {
     "code": "8665",
-    "name": "Sada rohových kulových kohoutů s teplotním čidlem 1\" (RKMAV03)",
+    "name": "Sada rohových kulových kohoutů s teplotním čidlem 1\", RAFTEC (RKMAV03)",
     "weight_g": 1142.0
   },
   {
     "code": "8666",
-    "name": "Rozdvojka k připojení dvou stejných okruhů k jednomu výstupu rozdělovače Y 3/4\" (EVKR0202)",
+    "name": "Rozdvojka k připojení dvou stejných okruhů k jednomu výstupu rozdělovače Y 3/4\", RAFTEC (EVKR0202)",
     "weight_g": 144.0
   },
   {
@@ -12886,22 +12891,22 @@
   },
   {
     "code": "8804",
-    "name": "Redukční ventil 1\" se samočistícím filtrem (studená voda) RCFR03-C",
+    "name": "Redukční ventil 1\" se samočistícím filtrem (studená voda), RAFTEC (RCFR03-C)",
     "weight_g": 1236.0
   },
   {
     "code": "8805",
-    "name": "Redukční ventil 1\" se samočistícím filtrem (horká voda) RCFR03-H",
+    "name": "Redukční ventil 1\" se samočistícím filtrem (horká voda), RAFTEC (RCFR03-H)",
     "weight_g": 1577.0
   },
   {
     "code": "8806",
-    "name": "Kombinovaný ventil 1/2\" x 1/2\" x 1/2\" (VKE801005), RAFTEC",
+    "name": "Kombinovaný ventil 1/2\" x 1/2\" x 1/2\", RAFTEC (VKE801005)",
     "weight_g": 331.0
   },
   {
     "code": "8808",
-    "name": "Termostatická hlavice s dálkovým čidlem (TG3015), RAFTEC",
+    "name": "Termostatická hlavice s dálkovým čidlem, RAFTEC (TG3015)",
     "weight_g": 171.0
   },
   {
@@ -12936,7 +12941,7 @@
   },
   {
     "code": "8816",
-    "name": "Samočistící filtr 1\" (studená voda) RMCF03",
+    "name": "Samočistící filtr 1\" (studená voda), RAFTEC (RMCF03)",
     "weight_g": 1291.0
   },
   {
@@ -13421,12 +13426,12 @@
   },
   {
     "code": "8919",
-    "name": "Termostatický ventil 3/4\" s regulací, rohový (KPT21)",
+    "name": "Termostatický ventil 3/4\" s regulací, rohový, RAFTEC (KPT21)",
     "weight_g": 239.0
   },
   {
     "code": "8920",
-    "name": "Termostatický ventil 3/4\" s regulací, přímý (PKPT21)",
+    "name": "Termostatický ventil 3/4\" s regulací, přímý, RAFTEC (PKPT21)",
     "weight_g": 254.0
   },
   {
@@ -13511,7 +13516,7 @@
   },
   {
     "code": "8942",
-    "name": "Termost. směšovací ventil 1\" (RTSM03)",
+    "name": "Termost. směšovací ventil 1\", RAFTEC (RTSM03)",
     "weight_g": 1544.0
   },
   {
@@ -13561,7 +13566,7 @@
   },
   {
     "code": "8952",
-    "name": "Magnetický filtr 3/4\", RMGHB02",
+    "name": "Magnetický filtr 3/4\", RAFTEC (RMGHB02)",
     "weight_g": 556.0
   },
   {
@@ -13591,12 +13596,12 @@
   },
   {
     "code": "8958",
-    "name": "Termostatický axiální radiátorový ventil 1/2\" (AXKPT11)",
+    "name": "Termostatický axiální radiátorový ventil 1/2\", RAFTEC (AXKPT11)",
     "weight_g": 246.0
   },
   {
     "code": "8959",
-    "name": "Adaptér 15 x 3/4\" pro připojení měděných trubek na ventil s eurokonusem, (PTS3415)",
+    "name": "Adaptér 15 x 3/4\" pro připojení měděných trubek na ventil s eurokonusem, RAFTEC (PTS3415)",
     "weight_g": 62.0
   },
   {
@@ -13621,37 +13626,37 @@
   },
   {
     "code": "9003",
-    "name": "Zahradní kulový kohout 1/2\" s dvojitým připojením, (KP0102) RAFTEC",
+    "name": "Zahradní kulový kohout 1/2\" s dvojitým připojením, RAFTEC (KP0102)",
     "weight_g": 297.0
   },
   {
     "code": "8971",
-    "name": "Hydraulický separátor 1\", (RHAI03)",
+    "name": "Hydraulický separátor 1\", RAFTEC (RHAI03)",
     "weight_g": 2250.0
   },
   {
     "code": "8976",
-    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" přímý + termostatická hlavice, černá, DSHU11-B",
+    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" přímý + termostatická hlavice, černá, RAFTEC (DSHU11-B)",
     "weight_g": 595.0
   },
   {
     "code": "8977",
-    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" rohové + termostatická hlavice, černá, DAHU11-B",
+    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" rohové + termostatická hlavice, černá, RAFTEC (DAHU11-B)",
     "weight_g": 563.0
   },
   {
     "code": "8978",
-    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" přímý + termostatická hlavice, bílá, DSHU11-W",
+    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" přímý + termostatická hlavice, bílá, RAFTEC (DSHU11-W)",
     "weight_g": 605.0
   },
   {
     "code": "8979",
-    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" rohové + termostatická hlavice, bílá, DAHU11-W",
+    "name": "Sada připojovací šroubení pro VK 1/2\"x3/4\" rohové + termostatická hlavice, bílá, RAFTEC (DAHU11-W)",
     "weight_g": 568.0
   },
   {
     "code": "8980",
-    "name": "Sada termostatická rohová + termostatická hlavice, černá, DKTU11-B",
+    "name": "Sada termostatická rohová + termostatická hlavice, černá, RAFTEC (DKTU11-B)",
     "weight_g": 586.0
   },
   {
@@ -13666,17 +13671,17 @@
   },
   {
     "code": "8983",
-    "name": "Sada rohových uzavíracích ventilů, černá, DKU11-B",
+    "name": "Sada rohových uzavíracích ventilů, černá, RAFTEC (DKU11-B)",
     "weight_g": 457.0
   },
   {
     "code": "8984",
-    "name": "Sada termostatická rohová + termostatická hlavice, bílá, DKTU11-W",
+    "name": "Sada termostatická rohová + termostatická hlavice, bílá, RAFTEC (DKTU11-W)",
     "weight_g": 599.0
   },
   {
     "code": "8985",
-    "name": "Sada rohových uzavíracích ventilů, bílá, DKU11-W",
+    "name": "Sada rohových uzavíracích ventilů, bílá, RAFTEC (DKU11-W)",
     "weight_g": 457.0
   },
   {
@@ -13941,57 +13946,57 @@
   },
   {
     "code": "9058",
-    "name": "Mosazné topenářské šroubení 1/2\", 40 Bar, přímé",
+    "name": "Mosazné topenářské šroubení 1/2\", 40 Bar, přímé, RAFTEC",
     "weight_g": 126.0
   },
   {
     "code": "9059",
-    "name": "Mosazné topenářské šroubení 3/4\", 40 Bar, přímé",
+    "name": "Mosazné topenářské šroubení 3/4\", 40 Bar, přímé, RAFTEC",
     "weight_g": 180.0
   },
   {
     "code": "9060",
-    "name": "Mosazné topenářské šroubení 1\", 40 Bar, přímé",
+    "name": "Mosazné topenářské šroubení 1\", 40 Bar, přímé, RAFTEC",
     "weight_g": 282.0
   },
   {
     "code": "9061",
-    "name": "Mosazné topenářské šroubení 1/2\", 40 Bar, rohové",
+    "name": "Mosazné topenářské šroubení 1/2\", 40 Bar, rohové, RAFTEC",
     "weight_g": 169.0
   },
   {
     "code": "9062",
-    "name": "Mosazné topenářské šroubení 3/4\", 40 Bar, rohové",
+    "name": "Mosazné topenářské šroubení 3/4\", 40 Bar, rohové, RAFTEC",
     "weight_g": 249.0
   },
   {
     "code": "9063",
-    "name": "Mosazné topenářské šroubení 1\", 40 Bar, rohové",
+    "name": "Mosazné topenářské šroubení 1\", 40 Bar, rohové, RAFTEC",
     "weight_g": 353.0
   },
   {
     "code": "9064",
-    "name": "Mosazné víčko 1/2\" s očkem",
+    "name": "Mosazné víčko 1/2\" s očkem, RAFTEC",
     "weight_g": 33.0
   },
   {
     "code": "9065",
-    "name": "Mosazné víčko 3/4\" s očkem",
+    "name": "Mosazné víčko 3/4\" s očkem, RAFTEC",
     "weight_g": 52.0
   },
   {
     "code": "9066",
-    "name": "Mosazné víčko 1\" s očkem",
+    "name": "Mosazné víčko 1\" s očkem, RAFTEC",
     "weight_g": 64.0
   },
   {
     "code": "9067",
-    "name": "Zátka mosazná 1/2\" s očkem",
+    "name": "Zátka mosazná 1/2\" s očkem, RAFTEC",
     "weight_g": 32.0
   },
   {
     "code": "9068",
-    "name": "Zátka mosazná 3/4\" s očkem",
+    "name": "Zátka mosazná 3/4\" s očkem, RAFTEC",
     "weight_g": 69.0
   },
   {
@@ -14171,22 +14176,22 @@
   },
   {
     "code": "9106",
-    "name": "Nůžky na plastové trubky (16-42 mm) NTP-1640, RAFTEC",
+    "name": "Nůžky na plastové trubky (16-42 mm), RAFTEC (NTP-1640)",
     "weight_g": 384.0
   },
   {
     "code": "9107",
-    "name": "Ruční testovací pumpa RTP50, RAFTEC",
+    "name": "Ruční testovací pumpa, RAFTEC (RTP50)",
     "weight_g": 7640.0
   },
   {
     "code": "9108",
-    "name": "Odvíječ pro trubky RTPEXU600, RAFTEC",
+    "name": "Odvíječ pro trubky, RAFTEC (RTPEXU600)",
     "weight_g": 6450.0
   },
   {
     "code": "9109",
-    "name": "Sponkovačka pro upevnění trubek podlahového topení RTFXP1620, RAFTEC",
+    "name": "Sponkovačka pro upevnění trubek podlahového topení, RAFTEC (RTFXP1620)",
     "weight_g": 3600.0
   },
   {
@@ -14196,32 +14201,32 @@
   },
   {
     "code": "9112",
-    "name": "Redukční ventil 1/2\" s filtrem (studená voda), RCFR01-CS",
+    "name": "Redukční ventil 1/2\" s filtrem (studená voda), RAFTEC (RCFR01-CS)",
     "weight_g": 871.0
   },
   {
     "code": "9113",
-    "name": "Redukční ventil 3/4\" s filtrem (studená voda), RCFR02-CS",
+    "name": "Redukční ventil 3/4\" s filtrem (studená voda), RAFTEC (RCFR02-CS)",
     "weight_g": 961.0
   },
   {
     "code": "9114",
-    "name": "Redukční ventil 1\" s filtrem (studená voda), RCFR03-CS",
+    "name": "Redukční ventil 1\" s filtrem (studená voda), RAFTEC (RCFR03-CS)",
     "weight_g": 1149.0
   },
   {
     "code": "9115",
-    "name": "Redukční ventil 1/2\" s filtrem (horká voda), RCFR01-HS",
+    "name": "Redukční ventil 1/2\" s filtrem (horká voda), RAFTEC (RCFR01-HS)",
     "weight_g": 1007.0
   },
   {
     "code": "9116",
-    "name": "Redukční ventil 3/4\" s filtrem (horká voda), RCFR02-HS",
+    "name": "Redukční ventil 3/4\" s filtrem (horká voda), RAFTEC (RCFR02-HS)",
     "weight_g": 1100.0
   },
   {
     "code": "9117",
-    "name": "Redukční ventil 1\" s filtrem (horká voda), RCFR03-HS",
+    "name": "Redukční ventil 1\" s filtrem (horká voda), RAFTEC (RCFR03-HS)",
     "weight_g": 1300.0
   },
   {
