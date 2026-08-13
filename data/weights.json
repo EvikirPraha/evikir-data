@@ -7026,7 +7026,7 @@
   },
   {
     "code": "7199",
-    "name": "Ohýbací pružina 16 vnější (2x20.7x504)",
+    "name": "Ohýbací pružina vnější pro trubku 16mm",
     "weight_g": 269.0
   },
   {
@@ -7756,7 +7756,7 @@
   },
   {
     "code": "7714",
-    "name": "Ohýbací pružina 20 vnější (2x25x504)",
+    "name": "Ohýbací pružina vnější pro trubku 20mm",
     "weight_g": 484.0
   },
   {
@@ -11201,22 +11201,22 @@
   },
   {
     "code": "8395",
-    "name": "Ohýbací pružina 16 vnitřní",
+    "name": "Ohýbací pružina vnitřní pro trubku 16mm",
     "weight_g": 90.0
   },
   {
     "code": "8396",
-    "name": "Ohýbací pružina 20 vnitřní",
+    "name": "Ohýbací pružina vnitřní pro trubku 20mm",
     "weight_g": 167.0
   },
   {
     "code": "8397",
-    "name": "Ohýbací pružina 26 vnitřní",
+    "name": "Ohýbací pružina vnitřní pro trubku 26mm",
     "weight_g": 251.0
   },
   {
     "code": "8398",
-    "name": "Ohýbací pružina 26 vnější",
+    "name": "Ohýbací pružina vnější pro trubku 26mm",
     "weight_g": 724.0
   },
   {
