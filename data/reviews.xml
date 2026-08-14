@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>940180944</rating_id>
+  <source>regular</source>
+  <ordered>1786036208</ordered>
+  <unix_timestamp>1786602609</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Rychlost
+Ceny]]></pros>
+  <summary><![CDATA[Vše ok]]></summary>
+  <order_id>2026004156</order_id>
+ </review>
+ <review>
   <rating_id>939728175</rating_id>
   <source>regular</source>
   <ordered>1785847293</ordered>
@@ -6785,18 +6800,5 @@ Nemožnost platby jinak než dobírkou a ta je zpoplatněna 50Kč!]]></cons>
   <communication>4.5</communication>
   <summary><![CDATA[Výběr, rychlost dodání]]></summary>
   <order_id>2022000356</order_id>
- </review>
- <review>
-  <rating_id>607688927</rating_id>
-  <source>regular</source>
-  <ordered>1664884638</ordered>
-  <unix_timestamp>1665486652</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <summary><![CDATA[Slušné ceny a rychlost doručení zboží.]]></summary>
-  <order_id>2022000333</order_id>
  </review>
 </reviews>
