@@ -8652,7 +8652,7 @@
   {
     "code": "4622",
     "name": "Topenářské šroubení 1/2\" niklované, přímé",
-    "weight_g": 113.0
+    "weight_g": 95.0
   },
   {
     "code": "4623",
@@ -14303,5 +14303,15 @@
     "code": "9167",
     "name": "''O'' kroužek NBR, 15x1,5 mm",
     "weight_g": 1.0
+  },
+  {
+    "code": "9168",
+    "name": "Skupina pro bezpečnost kotlů 1\", HR1421",
+    "weight_g": 695.0
+  },
+  {
+    "code": "9169",
+    "name": "Skupina pro bezpečnost kotlů 1\" \"Y\", HR1422",
+    "weight_g": 485.0
   }
 ]
