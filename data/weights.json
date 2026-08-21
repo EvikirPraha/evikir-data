@@ -14313,5 +14313,35 @@
     "code": "9169",
     "name": "Skupina pro bezpečnost kotlů 1\" \"Y\", HR1422",
     "weight_g": 485.0
+  },
+  {
+    "code": "9178",
+    "name": "Nerezový filtr 1/2\"",
+    "weight_g": 159.0
+  },
+  {
+    "code": "9179",
+    "name": "Nerezový filtr 3/4\"",
+    "weight_g": 265.0
+  },
+  {
+    "code": "9180",
+    "name": "Nerezový filtr 1\"",
+    "weight_g": 372.0
+  },
+  {
+    "code": "9181",
+    "name": "Nerezová zpětná klapka 1/2\"",
+    "weight_g": 148.0
+  },
+  {
+    "code": "9182",
+    "name": "Nerezová zpětná klapka 3/4\"",
+    "weight_g": 246.0
+  },
+  {
+    "code": "9183",
+    "name": "Nerezová zpětná klapka 1\"",
+    "weight_g": 361.0
   }
 ]
