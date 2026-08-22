@@ -14315,6 +14315,36 @@
     "weight_g": 485.0
   },
   {
+    "code": "9171",
+    "name": "Nerezové koleno 45° 1/2\" FF",
+    "weight_g": 48.0
+  },
+  {
+    "code": "9172",
+    "name": "Nerezové koleno 45° 3/4\" FF",
+    "weight_g": 67.0
+  },
+  {
+    "code": "9173",
+    "name": "Nerezové koleno 45° 1\" FF",
+    "weight_g": 105.0
+  },
+  {
+    "code": "9174",
+    "name": "Nerezové koleno 45° 1/2\" FM",
+    "weight_g": 78.0
+  },
+  {
+    "code": "9176",
+    "name": "Nerezové koleno 45° 3/4\" FM",
+    "weight_g": 115.0
+  },
+  {
+    "code": "9177",
+    "name": "Nerezové koleno 45° 1\" FM",
+    "weight_g": 200.0
+  },
+  {
     "code": "9178",
     "name": "Nerezový filtr 1/2\"",
     "weight_g": 159.0
