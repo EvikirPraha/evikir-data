@@ -14378,5 +14378,20 @@
     "code": "9183",
     "name": "Nerezová zpětná klapka 1\"",
     "weight_g": 361.0
+  },
+  {
+    "code": "9195",
+    "name": "RTL Termostatický ventil pro podlahové topení 3/4\", (HR1419)",
+    "weight_g": 1107.0
+  },
+  {
+    "code": "9196",
+    "name": "RTL Termostatický ventil pro podlahové topení 3/4\", (HR1417)",
+    "weight_g": 990.0
+  },
+  {
+    "code": "9197",
+    "name": "RTL Termostatický ventil pro podlahové topení 3/4\", (HR1418)",
+    "weight_g": 1250.0
   }
 ]
