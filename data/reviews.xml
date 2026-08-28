@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>943318786</rating_id>
+  <source>regular</source>
+  <ordered>1787323689</ordered>
+  <unix_timestamp>1787912600</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Rychlost]]></pros>
+  <order_id>2026004303</order_id>
+ </review>
+ <review>
+  <rating_id>943293754</rating_id>
+  <source>regular</source>
+  <ordered>1787314041</ordered>
+  <unix_timestamp>1787910196</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Velký sortiment 
+Dobrá cena
+Rychlost doručení]]></pros>
+  <order_id>2026004300</order_id>
+ </review>
+ <review>
+  <rating_id>943279920</rating_id>
+  <source>regular</source>
+  <ordered>1787309435</ordered>
+  <unix_timestamp>1787897386</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[rychlost doručení]]></pros>
+  <order_id>2026004299</order_id>
+ </review>
+ <review>
   <rating_id>942581979</rating_id>
   <source>regular</source>
   <ordered>1787046514</ordered>
@@ -6762,44 +6803,5 @@ Nemožnost platby jinak než dobírkou a ta je zpoplatněna 50Kč!]]></cons>
   <communication>4.5</communication>
   <summary><![CDATA[Přehledný e-shop se širokým sortimentem.]]></summary>
   <order_id>2022000582</order_id>
- </review>
- <review>
-  <rating_id>623116623</rating_id>
-  <source>regular</source>
-  <ordered>1669555309</ordered>
-  <unix_timestamp>1670143699</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>4</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Velký výběr]]></pros>
-  <order_id>2022000579</order_id>
- </review>
- <review>
-  <rating_id>620832056</rating_id>
-  <source>regular</source>
-  <ordered>1669046496</ordered>
-  <unix_timestamp>1669632047</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Rychlost vyřízení objednávky]]></pros>
-  <order_id>2022000558</order_id>
- </review>
- <review>
-  <rating_id>616951340</rating_id>
-  <source>regular</source>
-  <ordered>1668039169</ordered>
-  <unix_timestamp>1668986409</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <summary><![CDATA[Skladem, rychlost odeslání.]]></summary>
-  <order_id>2022000531</order_id>
  </review>
 </reviews>
