@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>943277733</rating_id>
+  <source>regular</source>
+  <ordered>1787308702</ordered>
+  <unix_timestamp>1788521064</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <pickup_time>5</pickup_time>
+  <pickup_quality>5</pickup_quality>
+  <communication>5</communication>
+  <summary><![CDATA[Vše OK]]></summary>
+  <order_id>2026004298</order_id>
+ </review>
+ <review>
   <rating_id>937894016</rating_id>
   <source>regular</source>
   <ordered>1784993522</ordered>
@@ -6790,18 +6803,5 @@ Poměrně rychlé dodání]]></pros>
   <cons><![CDATA[Nemožnost osobního odběru a drahé poštovné
 Nemožnost platby jinak než dobírkou a ta je zpoplatněna 50Kč!]]></cons>
   <order_id>2023000031</order_id>
- </review>
- <review>
-  <rating_id>630135641</rating_id>
-  <source>regular</source>
-  <ordered>1670955948</ordered>
-  <unix_timestamp>1671891394</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Rychlé dodání.]]></pros>
-  <order_id>2022000684</order_id>
  </review>
 </reviews>
