@@ -9406,12 +9406,12 @@
   },
   {
     "code": "7982",
-    "name": "Držák vodoměru 1/2\" se šroubením 3/4\"",
+    "name": "Držák pro vodoměr DN15 (1/2\") – závit vodoměru 3/4\"",
     "weight_g": 806.0
   },
   {
     "code": "7981",
-    "name": "Držák vodoměru 3/4\" se šroubením 1\"",
+    "name": "Držák pro vodoměr DN20 (3/4\") – závit vodoměru 1\"",
     "weight_g": 912.0
   },
   {
@@ -10598,6 +10598,11 @@
     "code": "8255",
     "name": "Nerez. připojovací trubka 1/2\", 60cm",
     "weight_g": 96.0
+  },
+  {
+    "code": "8256",
+    "name": "Nerez. připojovací trubka 1/2\", 70cm",
+    "weight_g": 103.0
   },
   {
     "code": "8258",
