@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>943947283</rating_id>
+  <source>regular</source>
+  <ordered>1787597727</ordered>
+  <unix_timestamp>1788845337</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[ok]]></summary>
+  <order_id>2026004377</order_id>
+ </review>
+ <review>
   <rating_id>943277733</rating_id>
   <source>regular</source>
   <ordered>1787308702</ordered>
@@ -6787,21 +6800,5 @@ Vyřízení objednávky]]></pros>
   <pros><![CDATA[Rychlá, jasná a spolehlivá komunikace, dodání následující den po objednávce.]]></pros>
   <summary><![CDATA[Absolutní spokojenost.]]></summary>
   <order_id>2023000108</order_id>
- </review>
- <review>
-  <rating_id>635449682</rating_id>
-  <source>regular</source>
-  <ordered>1672749891</ordered>
-  <unix_timestamp>1673507632</unix_timestamp>
-  <total_rating>3.5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>4</transport_quality>
-  <communication>4</communication>
-  <pros><![CDATA[Nízké ceny
-Poměrně rychlé dodání]]></pros>
-  <cons><![CDATA[Nemožnost osobního odběru a drahé poštovné
-Nemožnost platby jinak než dobírkou a ta je zpoplatněna 50Kč!]]></cons>
-  <order_id>2023000031</order_id>
  </review>
 </reviews>
