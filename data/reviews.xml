@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>945402347</rating_id>
+  <source>regular</source>
+  <ordered>1788208277</ordered>
+  <unix_timestamp>1789082761</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <pros><![CDATA[Přehledný Web
+Rychlé dodání
+Rozumné ceny]]></pros>
+  <order_id>2026004537</order_id>
+ </review>
+ <review>
+  <rating_id>945934539</rating_id>
+  <source>regular</source>
+  <ordered>1788421706</ordered>
+  <unix_timestamp>1789040308</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[Perfektní komunikace, zpracování a vyřízení objednávky v bezvadném čase.]]></summary>
+  <order_id>2026004593</order_id>
+ </review>
+ <review>
   <rating_id>945398019</rating_id>
   <source>regular</source>
   <ordered>1788206892</ordered>
@@ -6773,31 +6800,5 @@ Vyřízení objednávky]]></pros>
   <pros><![CDATA[Přijatelné ceny, rychlé řízení]]></pros>
   <summary><![CDATA[spokojený zákazník]]></summary>
   <order_id>2023000250</order_id>
- </review>
- <review>
-  <rating_id>642216624</rating_id>
-  <source>regular</source>
-  <ordered>1675261695</ordered>
-  <unix_timestamp>1675841889</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Nízké ceny, rychlé dodání.]]></pros>
-  <order_id>2023000242</order_id>
- </review>
- <review>
-  <rating_id>639515324</rating_id>
-  <source>regular</source>
-  <ordered>1674166357</ordered>
-  <unix_timestamp>1674732013</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Dobré ceny, super komunikace, rychlost ideslani]]></pros>
-  <order_id>2023000131</order_id>
  </review>
 </reviews>
