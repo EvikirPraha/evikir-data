@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>946599994</rating_id>
+  <source>regular</source>
+  <ordered>1788773700</ordered>
+  <unix_timestamp>1789384240</unix_timestamp>
+  <total_rating>4.5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>4.5</delivery_time>
+  <transport_quality>4.5</transport_quality>
+  <communication>4.5</communication>
+  <summary><![CDATA[Rychlost, radost !]]></summary>
+  <order_id>2026004655</order_id>
+ </review>
+ <review>
+  <rating_id>946671231</rating_id>
+  <source>regular</source>
+  <ordered>1788792569</ordered>
+  <unix_timestamp>1789373803</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>4.5</transport_quality>
+  <communication>4.5</communication>
+  <pros><![CDATA[Vcelku rychlé dodání.]]></pros>
+  <summary><![CDATA[Vcelku rychlé dodání.]]></summary>
+  <order_id>2026004671</order_id>
+ </review>
+ <review>
   <rating_id>945402347</rating_id>
   <source>regular</source>
   <ordered>1788208277</ordered>
@@ -6773,32 +6800,5 @@ Ceny
 Vyřízení objednávky]]></pros>
   <summary><![CDATA[Obchod doporučuji.]]></summary>
   <order_id>2023000371</order_id>
- </review>
- <review>
-  <rating_id>644462674</rating_id>
-  <source>regular</source>
-  <ordered>1676145289</ordered>
-  <unix_timestamp>1676712454</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[rychlost]]></pros>
-  <order_id>2023000323</order_id>
- </review>
- <review>
-  <rating_id>642400062</rating_id>
-  <source>regular</source>
-  <ordered>1675337472</ordered>
-  <unix_timestamp>1675928507</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Přijatelné ceny, rychlé řízení]]></pros>
-  <summary><![CDATA[spokojený zákazník]]></summary>
-  <order_id>2023000250</order_id>
  </review>
 </reviews>
