@@ -10610,6 +10610,11 @@
     "weight_g": 103.0
   },
   {
+    "code": "8257",
+    "name": "Nerez. připojovací trubka 1/2\", 80cm",
+    "weight_g": 113.0
+  },
+  {
     "code": "8258",
     "name": "Nerez. připojovací trubka 1/2\", 90cm",
     "weight_g": 119.0
@@ -10968,6 +10973,11 @@
     "code": "8344",
     "name": "Nerez. připojovací trubka 1\", 50cm",
     "weight_g": 195.0
+  },
+  {
+    "code": "8345",
+    "name": "Nerez. připojovací trubka 1\", 60cm",
+    "weight_g": 216.0
   },
   {
     "code": "8346",
