@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>947990373</rating_id>
+  <source>regular</source>
+  <ordered>1789329664</ordered>
+  <unix_timestamp>1789929623</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[rychle a spolehlivě, super cena,  zboží na druhý den .]]></pros>
+  <order_id>2026004829</order_id>
+ </review>
+ <review>
   <rating_id>947394546</rating_id>
   <source>regular</source>
   <ordered>1789070513</ordered>
@@ -6785,18 +6798,5 @@ Podporují Zásilkovnu]]></pros>
 Spokojenost]]></pros>
   <cons><![CDATA[nic]]></cons>
   <order_id>2023000592</order_id>
- </review>
- <review>
-  <rating_id>647405643</rating_id>
-  <source>regular</source>
-  <ordered>1677260296</ordered>
-  <unix_timestamp>1677875084</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <summary><![CDATA[Jednoduché objednání,  rychlé doručení, slušné ceny.  Snad jen, že sroubení není tak masivní jak jsem zvyklí,  ale jistě v dostatečné kvalitě. Celkově jsem spokojen.]]></summary>
-  <order_id>2023000430</order_id>
  </review>
 </reviews>
