@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>946513498</rating_id>
+  <source>regular</source>
+  <ordered>1788724265</ordered>
+  <unix_timestamp>1789985651</unix_timestamp>
+  <total_rating>4</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>4</delivery_time>
+  <communication>2.5</communication>
+  <pros><![CDATA[Ventil nic moc, ale za ty prachy nekupto.]]></pros>
+  <order_id>2026004643</order_id>
+ </review>
+ <review>
   <rating_id>947990373</rating_id>
   <source>regular</source>
   <ordered>1789329664</ordered>
@@ -6783,20 +6795,5 @@ Bezproblémový obchod
 Podporují Zásilkovnu]]></pros>
   <summary><![CDATA[Spokojený, není co vytknout.]]></summary>
   <order_id>2023000630</order_id>
- </review>
- <review>
-  <rating_id>652646976</rating_id>
-  <source>regular</source>
-  <ordered>1679325012</ordered>
-  <unix_timestamp>1679901669</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Rychlost, cena
-Spokojenost]]></pros>
-  <cons><![CDATA[nic]]></cons>
-  <order_id>2023000592</order_id>
  </review>
 </reviews>
