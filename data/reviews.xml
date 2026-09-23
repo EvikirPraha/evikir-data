@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>948563088</rating_id>
+  <source>regular</source>
+  <ordered>1789533788</ordered>
+  <unix_timestamp>1790149781</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>4.5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Komunikace
+Rychlost
+Dobrá cena]]></pros>
+  <summary><![CDATA[Celková spokojenost. Doporučuji.]]></summary>
+  <order_id>2026004920</order_id>
+ </review>
+ <review>
   <rating_id>946513498</rating_id>
   <source>regular</source>
   <ordered>1788724265</ordered>
@@ -6778,22 +6794,5 @@ dobrá komunikace]]></pros>
   <pros><![CDATA[ceny
 rychlost]]></pros>
   <order_id>2023000586</order_id>
- </review>
- <review>
-  <rating_id>653600371</rating_id>
-  <source>regular</source>
-  <ordered>1679678226</ordered>
-  <unix_timestamp>1680273803</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <pickup_time>5</pickup_time>
-  <pickup_quality>5</pickup_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Měli zboží od PlastBrno
-Rychlé jednání
-Bezproblémový obchod
-Podporují Zásilkovnu]]></pros>
-  <summary><![CDATA[Spokojený, není co vytknout.]]></summary>
-  <order_id>2023000630</order_id>
  </review>
 </reviews>
