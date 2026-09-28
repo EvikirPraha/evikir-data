@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>949932978</rating_id>
+  <source>regular</source>
+  <ordered>1790014339</ordered>
+  <unix_timestamp>1790587581</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Rychlé dodání]]></pros>
+  <cons><![CDATA[Nemám]]></cons>
+  <order_id>2026005067</order_id>
+ </review>
+ <review>
   <rating_id>948563088</rating_id>
   <source>regular</source>
   <ordered>1789533788</ordered>
@@ -6780,19 +6794,5 @@ nízké ceny
 dobrá komunikace]]></pros>
   <summary><![CDATA[Obchod Evikir nabízí rychlé dodání instalatérských potřeb za velmi nízké ceny. Jejich sortiment je velmi rozsáhlý a mají všechny potřebné produkty, které jsou potřeba pro instalaci různých systémů. Komunikace s týmem Evikiru byla velmi dobrá, byli velmi ochotní a vstřícní. Byl jsem spokojen se službami, které jsem od nich obdržel a určitě bych obchod Evikir doporučil každému, kdo hledá kvalitní instalatérské potřeby za výhodné ceny.]]></summary>
   <order_id>2023000661</order_id>
- </review>
- <review>
-  <rating_id>652424557</rating_id>
-  <source>regular</source>
-  <ordered>1679251086</ordered>
-  <unix_timestamp>1680274311</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[ceny
-rychlost]]></pros>
-  <order_id>2023000586</order_id>
  </review>
 </reviews>
