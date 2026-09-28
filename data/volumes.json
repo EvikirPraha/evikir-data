@@ -414,5 +414,93 @@
     "depth": 0.3,
     "width": 0.3,
     "volume_cm3": 0.027
+  },
+  {
+    "code": 9224,
+    "name": "Filtrační patrona (10\") USTM PS-5 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9222,
+    "name": "Filtrační patrona  (10\") USTM PS-20 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9220,
+    "name": "Filtrační patrona (10\") USTM PS-10 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9218,
+    "name": "Filtrační patrona (10\") USTM PS-1 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9223,
+    "name": "Filtrační patrona (10\") DES PS-5 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9221,
+    "name": "Filtrační patrona  (10\") DES PS-20 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9219,
+    "name": "Filtrační patrona (10\") DES PS-10 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9217,
+    "name": "Filtrační patrona (10\") DES PS-1 mcr",
+    "height": 6.0,
+    "depth": 6.0,
+    "width": 25.5,
+    "volume_cm3": 918.0
+  },
+  {
+    "code": 9214,
+    "name": "Vodní filtr SET EMI 10\", 8 BAR, 30°C, připojení 1\"",
+    "height": 13.0,
+    "depth": 12.0,
+    "width": 33.0,
+    "volume_cm3": 5148.0
+  },
+  {
+    "code": 9215,
+    "name": "Vodní filtr SET EMI 10\", 8 BAR, 30°C, připojení 1/2\"",
+    "height": 13.0,
+    "depth": 12.0,
+    "width": 33.0,
+    "volume_cm3": 5148.0
+  },
+  {
+    "code": 9216,
+    "name": "Vodní filtr SET EMI 10\", 8 BAR, 30°C, připojení 3/4\"",
+    "height": 13.0,
+    "depth": 12.0,
+    "width": 33.0,
+    "volume_cm3": 5148.0
   }
 ]
