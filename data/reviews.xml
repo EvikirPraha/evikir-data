@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>949971142</rating_id>
+  <source>regular</source>
+  <ordered>1790022896</ordered>
+  <unix_timestamp>1790594300</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[Kvalitní zboží a rychlé dodání]]></summary>
+  <order_id>2026005078</order_id>
+ </review>
+ <review>
   <rating_id>949932978</rating_id>
   <source>regular</source>
   <ordered>1790014339</ordered>
@@ -6778,21 +6791,5 @@ rychlost zpracování]]></pros>
 krátká dodací doba]]></pros>
   <summary><![CDATA[jsem spokojen s kvalitou zboží a rozmanitostí materiálu (velký výběr)]]></summary>
   <order_id>2023000695</order_id>
- </review>
- <review>
-  <rating_id>654412323</rating_id>
-  <source>regular</source>
-  <ordered>1680014654</ordered>
-  <unix_timestamp>1680605470</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[rychlé
-nízké ceny
-dobrá komunikace]]></pros>
-  <summary><![CDATA[Obchod Evikir nabízí rychlé dodání instalatérských potřeb za velmi nízké ceny. Jejich sortiment je velmi rozsáhlý a mají všechny potřebné produkty, které jsou potřeba pro instalaci různých systémů. Komunikace s týmem Evikiru byla velmi dobrá, byli velmi ochotní a vstřícní. Byl jsem spokojen se službami, které jsem od nich obdržel a určitě bych obchod Evikir doporučil každému, kdo hledá kvalitní instalatérské potřeby za výhodné ceny.]]></summary>
-  <order_id>2023000661</order_id>
  </review>
 </reviews>
