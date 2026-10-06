@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>951484053</rating_id>
+  <source>regular</source>
+  <ordered>1790708632</ordered>
+  <unix_timestamp>1791275551</unix_timestamp>
+  <total_rating>4.5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <summary><![CDATA[Velmi dobrá. Je jen jedna drobnost, ale nevím, zda chyba (či nepozornost) nebyla na mé straně. Jde o volbu dopravy - chtěl jsem tu nejlevnější, ale nakonec "to spadlo" do dopravy dražší. Nevylučuji, že jsem tuto volbu dopravy přehlédl, ale krok zpátky už nešel.]]></summary>
+  <order_id>2026005264</order_id>
+ </review>
+ <review>
   <rating_id>950023619</rating_id>
   <source>regular</source>
   <ordered>1790061757</ordered>
@@ -6773,21 +6786,5 @@ dobré ceny]]></pros>
   <pros><![CDATA[Výborné ceny
 Rychlé doručení]]></pros>
   <order_id>2023000943</order_id>
- </review>
- <review>
-  <rating_id>663481630</rating_id>
-  <source>regular</source>
-  <ordered>1683729140</ordered>
-  <unix_timestamp>1684311427</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[velký výběr
-dobré ceny
-komunikace
-rychlost zpracování]]></pros>
-  <order_id>2023000971</order_id>
  </review>
 </reviews>
