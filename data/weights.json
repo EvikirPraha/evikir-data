@@ -13070,6 +13070,11 @@
     "weight_g": 356.0
   },
   {
+    "code": "8836",
+    "name": "Nerez. připojovací trubka 1\", 140cm",
+    "weight_g": 370.0
+  },
+  {
     "code": "8837",
     "name": "Nerez. připojovací trubka 1\", 150cm",
     "weight_g": 390.0
@@ -14556,7 +14561,7 @@
   },
   {
     "code": "9224",
-    "name": "Filtrační patrona (10\") USTM PS-5 mcr",
+    "name": "Filtrační patrona USTM PS-5 mcr (10\")",
     "weight_g": 110.0
   },
   {
@@ -14581,37 +14586,37 @@
   },
   {
     "code": "9222",
-    "name": "Filtrační patrona  (10\") USTM PS-20 mcr",
+    "name": "Filtrační patrona USTM PS-20 mcr (10\")",
     "weight_g": 110.0
   },
   {
     "code": "9220",
-    "name": "Filtrační patrona (10\") USTM PS-10 mcr",
+    "name": "Filtrační patrona USTM PS-10 mcr (10\")",
     "weight_g": 110.0
   },
   {
     "code": "9218",
-    "name": "Filtrační patrona (10\") USTM PS-1 mcr",
+    "name": "Filtrační patrona USTM PS-1 mcr (10\")",
     "weight_g": 110.0
   },
   {
     "code": "9223",
-    "name": "Filtrační patrona (10\") DES PS-5 mcr",
+    "name": "Filtrační patrona DES PS-5 mcr (10\")",
     "weight_g": 110.0
   },
   {
     "code": "9221",
-    "name": "Filtrační patrona  (10\") DES PS-20 mcr",
+    "name": "Filtrační patrona DES PS-20 mcr (10\")",
     "weight_g": 110.0
   },
   {
     "code": "9219",
-    "name": "Filtrační patrona (10\") DES PS-10 mcr",
+    "name": "Filtrační patrona DES PS-10 mcr (10\")",
     "weight_g": 110.0
   },
   {
     "code": "9217",
-    "name": "Filtrační patrona (10\") DES PS-1 mcr",
+    "name": "Filtrační patrona DES PS-1 mcr (10\")",
     "weight_g": 110.0
   },
   {
