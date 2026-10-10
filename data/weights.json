@@ -8401,17 +8401,17 @@
   },
   {
     "code": "4367",
-    "name": "Mosazná jímka k teploměru 1/2\" x 50mm, 8mm/11mm",
+    "name": "Mosazná jímka k teploměru 1/2\" x 50mm, 8mm/11mm, STENO",
     "weight_g": 37.0
   },
   {
     "code": "4368",
-    "name": "Mosazná jímka k teploměru 1/2\" x 75mm, 8mm/11mm",
+    "name": "Mosazná jímka k teploměru 1/2\" x 75mm, 8mm/11mm, STENO",
     "weight_g": 35.0
   },
   {
     "code": "4369",
-    "name": "Mosazná jímka k teploměru 1/2\" x 100mm, 8mm/11mm",
+    "name": "Mosazná jímka k teploměru 1/2\" x 100mm, 8mm/11mm, STENO",
     "weight_g": 56.0
   },
   {
@@ -10941,7 +10941,7 @@
   },
   {
     "code": "8333",
-    "name": "Kulový kohout pro připojení čidla 3/4\", FERRO",
+    "name": "Kulový kohout pro připojení čidla 3/4\", FERRO (KFPMT2)",
     "weight_g": 254.0
   },
   {
@@ -13631,12 +13631,12 @@
   },
   {
     "code": "8954",
-    "name": "Mosazná jímka k teploměru 1/2\" x 50mm, 9mm/11mm",
+    "name": "Mosazná jímka k teploměru 1/2\" x 50mm, 9mm/11mm, MELSCHER",
     "weight_g": 39.0
   },
   {
     "code": "8955",
-    "name": "Mosazná jímka k teploměru 1/2\" x 100mm, 9mm/11mm",
+    "name": "Mosazná jímka k teploměru 1/2\" x 100mm, 9mm/11mm, MELSCHER",
     "weight_g": 49.0
   },
   {
@@ -14686,7 +14686,7 @@
   },
   {
     "code": "9235",
-    "name": "Mosazná jímka k teploměru 1/2\" x 80mm, 9mm/11mm",
+    "name": "Mosazná jímka k teploměru 1/2\" x 80mm, 9mm/11mm, MELSCHER",
     "weight_g": 46.0
   }
 ]
