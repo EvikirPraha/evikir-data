@@ -14025,6 +14025,11 @@
     "weight_g": 107.0
   },
   {
+    "code": "9054",
+    "name": "Odkapávač na nádobí na dřez, BAS-01.SUS GRAY, šedý",
+    "weight_g": 569.0
+  },
+  {
     "code": "9058",
     "name": "Mosazné šroubení topenářské 1/2\", 40 Bar, přímé, RAFTEC",
     "weight_g": 126.0
@@ -14226,17 +14231,17 @@
   },
   {
     "code": "9100",
-    "name": "Nerezový kulový kohout 1/2\"",
+    "name": "Nerezový kulový kohout 1/2\" FF",
     "weight_g": 163.0
   },
   {
     "code": "9101",
-    "name": "Nerezový kulový kohout 3/4\"",
+    "name": "Nerezový kulový kohout 3/4\" FF",
     "weight_g": 235.0
   },
   {
     "code": "9102",
-    "name": "Nerezový kulový kohout 1\"",
+    "name": "Nerezový kulový kohout 1\" FF",
     "weight_g": 340.0
   },
   {
