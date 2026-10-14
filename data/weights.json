@@ -14693,5 +14693,20 @@
     "code": "9235",
     "name": "Mosazná jímka k teploměru 1/2\" x 80mm, 9mm/11mm, MELSCHER",
     "weight_g": 46.0
+  },
+  {
+    "code": "9236",
+    "name": "Nerezový kulový kohout 1/2\" FM",
+    "weight_g": 265.0
+  },
+  {
+    "code": "9237",
+    "name": "Nerezový kulový kohout 3/4\" FM",
+    "weight_g": 409.0
+  },
+  {
+    "code": "9238",
+    "name": "Nerezový kulový kohout 1\" FM",
+    "weight_g": 638.0
   }
 ]
