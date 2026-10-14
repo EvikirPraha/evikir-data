@@ -400,6 +400,14 @@
     "volume_cm3": 18920.0
   },
   {
+    "code": 8816,
+    "name": "Samočistící filtr 1\" (studená voda), RAFTEC (RMCF03)",
+    "height": 9.0,
+    "depth": 27.0,
+    "width": 30.0,
+    "volume_cm3": 7290.0
+  },
+  {
     "code": 8931,
     "name": "Hlavice ventilační 110 mm, hnědá",
     "height": 13.0,
