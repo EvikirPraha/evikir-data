@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>954674121</rating_id>
+  <source>regular</source>
+  <ordered>1792053227</ordered>
+  <unix_timestamp>1792670802</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>4.5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Rychlost pružnost obchodu]]></pros>
+  <order_id>2026005638</order_id>
+ </review>
+ <review>
   <rating_id>954511160</rating_id>
   <source>regular</source>
   <ordered>1791985951</ordered>
@@ -6771,19 +6784,5 @@ dobré ceny]]></pros>
   <communication>5</communication>
   <pros><![CDATA[Rychlost]]></pros>
   <order_id>2023001076</order_id>
- </review>
- <review>
-  <rating_id>662817339</rating_id>
-  <source>regular</source>
-  <ordered>1683494112</ordered>
-  <unix_timestamp>1684902116</unix_timestamp>
-  <total_rating>4.5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>2</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>1</communication>
-  <pros><![CDATA[Dobré ceny i nabídka]]></pros>
-  <summary><![CDATA[Chyběla nějaká položka do kompletní objednávky aby mohlo být zboží odesláno ale prodejce nedal zprávu že se doručení opozdí o týden. ŠPATNÁ KOMUNIKACE.]]></summary>
-  <order_id>2023000936</order_id>
  </review>
 </reviews>
