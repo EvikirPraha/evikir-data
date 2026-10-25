@@ -424,6 +424,14 @@
     "volume_cm3": 5200.0
   },
   {
+    "code": 9107,
+    "name": "Ruční testovací pumpa, RAFTEC (RTP50)",
+    "height": 30.0,
+    "depth": 19.0,
+    "width": 50.0,
+    "volume_cm3": 28500.0
+  },
+  {
     "code": 6138,
     "name": "Šachtový komplet revizní 300 x 300 mm s poklopem",
     "height": 0.3,
