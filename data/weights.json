@@ -14723,5 +14723,15 @@
     "code": "9240",
     "name": "PPR Navařovací koncovka 20 mm",
     "weight_g": 6.0
+  },
+  {
+    "code": "9241",
+    "name": "Připojení na hadici P155Z-G1 pro napojení pračky a myčky na sifon, se zpětnými klapkami, O 17–23 mm",
+    "weight_g": 75.0
+  },
+  {
+    "code": "9242",
+    "name": "''O'' kroužek NBR, 8 x 1,5 mm pro 16 Al-PEX tvarovky",
+    "weight_g": 1.0
   }
 ]
