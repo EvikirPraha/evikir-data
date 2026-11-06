@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>957539634</rating_id>
+  <source>regular</source>
+  <ordered>1793118977</ordered>
+  <unix_timestamp>1793894755</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Vše ok. Rychlost doručení]]></pros>
+  <cons><![CDATA[Nic]]></cons>
+  <order_id>2026005914</order_id>
+ </review>
+ <review>
+  <rating_id>957981265</rating_id>
+  <source>regular</source>
+  <ordered>1793305031</ordered>
+  <unix_timestamp>1793875310</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[rychlost, komunikace]]></pros>
+  <summary><![CDATA[nic]]></summary>
+  <order_id>2026005956</order_id>
+ </review>
+ <review>
   <rating_id>957701156</rating_id>
   <source>regular</source>
   <ordered>1793200150</ordered>
@@ -6754,32 +6782,5 @@ super komunikace]]></pros>
   <communication>4.5</communication>
   <summary><![CDATA[Super cena a jednani.]]></summary>
   <order_id>2023001293</order_id>
- </review>
- <review>
-  <rating_id>670951987</rating_id>
-  <source>regular</source>
-  <ordered>1686730916</ordered>
-  <unix_timestamp>1687327341</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[ceny
-rychlost doručení]]></pros>
-  <order_id>2023001269</order_id>
- </review>
- <review>
-  <rating_id>670539585</rating_id>
-  <source>regular</source>
-  <ordered>1686588807</ordered>
-  <unix_timestamp>1687168125</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <summary><![CDATA[Slušný sortiment, rychlost dodání.]]></summary>
-  <order_id>2023001250</order_id>
  </review>
 </reviews>
