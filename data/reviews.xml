@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>958506483</rating_id>
+  <source>regular</source>
+  <ordered>1793556347</ordered>
+  <unix_timestamp>1794149598</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[rychlost, dobré ceny]]></pros>
+  <order_id>2026005995</order_id>
+ </review>
+ <review>
+  <rating_id>958259994</rating_id>
+  <source>regular</source>
+  <ordered>1793451553</ordered>
+  <unix_timestamp>1794141614</unix_timestamp>
+  <total_rating>5</total_rating>
+  <recommends>1</recommends>
+  <delivery_time>5</delivery_time>
+  <transport_quality>5</transport_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Promptní vyřízení objednávky.]]></pros>
+  <cons><![CDATA[Žádná není.]]></cons>
+  <order_id>2026005970</order_id>
+ </review>
+ <review>
   <rating_id>957539634</rating_id>
   <source>regular</source>
   <ordered>1793118977</ordered>
@@ -6756,31 +6783,5 @@ Nic]]></pros>
 dobré ceny
 super komunikace]]></pros>
   <order_id>2023001339</order_id>
- </review>
- <review>
-  <rating_id>672070575</rating_id>
-  <source>regular</source>
-  <ordered>1687181707</ordered>
-  <unix_timestamp>1687768893</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <summary><![CDATA[Velmi dobré]]></summary>
-  <order_id>2023001323</order_id>
- </review>
- <review>
-  <rating_id>671408388</rating_id>
-  <source>regular</source>
-  <ordered>1686899018</ordered>
-  <unix_timestamp>1687501513</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <pickup_time>4.5</pickup_time>
-  <pickup_quality>4.5</pickup_quality>
-  <communication>4.5</communication>
-  <summary><![CDATA[Super cena a jednani.]]></summary>
-  <order_id>2023001293</order_id>
  </review>
 </reviews>
