@@ -14325,6 +14325,16 @@
     "weight_g": 1300.0
   },
   {
+    "code": "9118",
+    "name": "Rukojeť s vestavěným teploměrem pro ventil RAFTEC GOLD, GHT0102",
+    "weight_g": 100.0
+  },
+  {
+    "code": "9119",
+    "name": "Prodloužená rukojeť pro ventil RAFTEC GOLD, GHE0102",
+    "weight_g": 52.0
+  },
+  {
     "code": "6138",
     "name": "Šachtový komplet revizní 300 x 300 mm s poklopem",
     "weight_g": 2872.0
@@ -14738,5 +14748,20 @@
     "code": "9243",
     "name": "Termostatická hlavice FERRO GT10",
     "weight_g": 140.0
+  },
+  {
+    "code": "9244",
+    "name": "Nerezové šroubení 1/2\" FM",
+    "weight_g": 110.0
+  },
+  {
+    "code": "9245",
+    "name": "Nerezové šroubení 3/4\" FM",
+    "weight_g": 151.0
+  },
+  {
+    "code": "9246",
+    "name": "Nerezové šroubení 1\" FM",
+    "weight_g": 266.0
   }
 ]
