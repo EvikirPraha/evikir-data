@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <reviews>
  <review>
+  <rating_id>960116979</rating_id>
+  <source>regular</source>
+  <ordered>1794146959</ordered>
+  <unix_timestamp>1794766354</unix_timestamp>
+  <total_rating>4</total_rating>
+  <recommends>1</recommends>
+  <pickup_time>5</pickup_time>
+  <pickup_quality>3.5</pickup_quality>
+  <communication>5</communication>
+  <pros><![CDATA[Nemam co]]></pros>
+  <order_id>2026006134</order_id>
+ </review>
+ <review>
   <rating_id>959934396</rating_id>
   <source>regular</source>
   <ordered>1794070473</ordered>
@@ -6769,18 +6782,5 @@ Nic]]></pros>
   <communication>5</communication>
   <pros><![CDATA[rychlost a cena super]]></pros>
   <order_id>2023001369</order_id>
- </review>
- <review>
-  <rating_id>672019714</rating_id>
-  <source>regular</source>
-  <ordered>1687170855</ordered>
-  <unix_timestamp>1687970084</unix_timestamp>
-  <total_rating>5</total_rating>
-  <recommends>1</recommends>
-  <delivery_time>5</delivery_time>
-  <transport_quality>5</transport_quality>
-  <communication>5</communication>
-  <pros><![CDATA[Rychle, levně, kvalitně]]></pros>
-  <order_id>2023001319</order_id>
  </review>
 </reviews>
