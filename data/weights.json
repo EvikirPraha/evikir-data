@@ -3107,7 +3107,7 @@
   {
     "code": "4292",
     "name": "Kulový kohout 1\" FM motýl",
-    "weight_g": 444.0
+    "weight_g": 320.0
   },
   {
     "code": "4290",
@@ -6651,12 +6651,12 @@
   },
   {
     "code": "5610",
-    "name": "Krytka potrubí 85 x 40 mm, bílá",
+    "name": "Krytka potrubí plastová 85 x 40 mm, bílá",
     "weight_g": 8.0
   },
   {
     "code": "5611",
-    "name": "Krytka potrubí 85 x 50 mm, bílá",
+    "name": "Krytka potrubí plastová 85 x 50 mm, bílá",
     "weight_g": 8.0
   },
   {
@@ -9371,7 +9371,7 @@
   },
   {
     "code": "7983",
-    "name": "Krytka potrubí 100 x 50 mm, bílá",
+    "name": "Krytka potrubí plastová 100 x 50 mm, bílá",
     "weight_g": 18.0
   },
   {
@@ -9381,7 +9381,7 @@
   },
   {
     "code": "7984",
-    "name": "Krytka potrubí plastová 80 x 32 mm, bílá",
+    "name": "Krytka potrubí plastová 85 x 32 mm, bílá",
     "weight_g": 7.0
   },
   {
