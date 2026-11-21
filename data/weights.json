@@ -14763,5 +14763,20 @@
     "code": "9246",
     "name": "Nerezové šroubení 1\" FM",
     "weight_g": 266.0
+  },
+  {
+    "code": "9247",
+    "name": "Automatický dopouštěcí ventil 1/2\" s manometrem",
+    "weight_g": 532.0
+  },
+  {
+    "code": "9251",
+    "name": "Ventilační kanál plochý 110 x 55 x 1500 mm",
+    "weight_g": 100000.0
+  },
+  {
+    "code": "9252",
+    "name": "Ventilační kanál trubkový V129 x 1000 mm",
+    "weight_g": 100000.0
   }
 ]
